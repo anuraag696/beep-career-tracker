@@ -1,0 +1,51 @@
+Sample_ID,Job_Title,Company,Raw_Location,Ground_Truth_Role,Predicted_Role,Role_Match,Ground_Truth_City,Predicted_City,City_Match,Ground_Truth_Type,Predicted_Type,Type_Match,Confidence,Tagger_Used
+1,Software Engineer Intern - 2025/2026,Google,"Bengaluru, Karnataka, India",Backend,Backend,PASS,Bengaluru,Bengaluru,PASS,Internship,Internship,PASS,0.88,Heuristic Rule Engine
+2,SDE Intern - Summer 2025,Amazon India,"Bengaluru, Karnataka",Backend,Backend,PASS,Bengaluru,Bengaluru,PASS,Internship,Internship,PASS,0.88,Heuristic Rule Engine
+3,Graduate Technology Trainee (GET),PhonePe,"Bengaluru, India",AI/ML,Backend,FAIL,Bengaluru,Bengaluru,PASS,Internship,Internship,PASS,0.88,Heuristic Rule Engine
+4,Frontend Engineer Intern (React / Next.js),Razorpay,"Bengaluru, Karnataka",Frontend,Frontend,PASS,Bengaluru,Bengaluru,PASS,Internship,Internship,PASS,0.88,Heuristic Rule Engine
+5,AI & Gen AI Engineer Trainee,Swiggy,"Bengaluru, India",AI/ML,AI/ML,PASS,Bengaluru,Bengaluru,PASS,Internship,Internship,PASS,0.88,Heuristic Rule Engine
+6,Full Stack Developer - Fresher 2024/2025,CRED,"Bengaluru, Karnataka",Full Stack,Full Stack,PASS,Bengaluru,Bengaluru,PASS,Fresher/Full-time,Fresher/Full-time,PASS,0.88,Heuristic Rule Engine
+7,Data Analyst Intern,Flipkart,"Bengaluru, Karnataka",Data & Analytics,Data & Analytics,PASS,Bengaluru,Bengaluru,PASS,Internship,Internship,PASS,0.88,Heuristic Rule Engine
+8,QA Automation Engineer Intern,Meesho,"Bengaluru, India (Hybrid)",QA & Testing,QA & Testing,PASS,Bengaluru,Bengaluru,PASS,Internship,Internship,PASS,0.88,Heuristic Rule Engine
+9,Associate Cloud & DevOps Engineer,Jio Platforms,"Bengaluru, Karnataka",DevOps & Cloud,DevOps & Cloud,PASS,Bengaluru,Bengaluru,PASS,Fresher/Full-time,Fresher/Full-time,PASS,0.88,Heuristic Rule Engine
+10,Product Design Intern (UI/UX),Zepto,"Bengaluru, India",Product & Design,Product & Design,PASS,Bengaluru,Bengaluru,PASS,Internship,Internship,PASS,0.88,Heuristic Rule Engine
+11,Software Development Engineer - Fresher,Barclays India,"Pune, Maharashtra, India",Backend,Other Tech,FAIL,Pune,Pune,PASS,Fresher/Full-time,Fresher/Full-time,PASS,0.88,Heuristic Rule Engine
+12,Associate Software Engineer,Persistent Systems,"Pune, Maharashtra",Backend,Backend,PASS,Pune,Pune,PASS,Fresher/Full-time,Fresher/Full-time,PASS,0.88,Heuristic Rule Engine
+13,GenAI & ML Engineer Intern,EventBeep,"Baner, Pune, Maharashtra",AI/ML,AI/ML,PASS,Pune,Pune,PASS,Internship,Internship,PASS,0.88,Heuristic Rule Engine
+14,Graduate Engineer Trainee (GET),Bajaj Finserv Health,"Pune, Maharashtra",AI/ML,Frontend,FAIL,Pune,Pune,PASS,Internship,Internship,PASS,0.88,Heuristic Rule Engine
+15,DevOps Engineer Intern,Synechron,"Kharadi, Pune",DevOps & Cloud,DevOps & Cloud,PASS,Pune,Pune,PASS,Internship,Internship,PASS,0.88,Heuristic Rule Engine
+16,Cybersecurity Analyst Intern,Quick Heal Technologies,"Pune, Maharashtra",Cybersecurity,Cybersecurity,PASS,Pune,Pune,PASS,Internship,Internship,PASS,0.88,Heuristic Rule Engine
+17,Junior Backend Developer (Node.js),PubMatic,"Pune, Maharashtra",Backend,Backend,PASS,Pune,Pune,PASS,Fresher/Full-time,Fresher/Full-time,PASS,0.88,Heuristic Rule Engine
+18,Software Engineer (New College Graduate),Microsoft India,"Hyderabad, Telangana, India",Backend,Backend,PASS,Hyderabad,Hyderabad,PASS,Fresher/Full-time,Fresher/Full-time,PASS,0.88,Heuristic Rule Engine
+19,Data Engineering Intern,Uber India,"HITEC City, Hyderabad",Data & Analytics,Other Tech,FAIL,Hyderabad,Hyderabad,PASS,Internship,Internship,PASS,0.88,Heuristic Rule Engine
+20,Associate Quality Engineer,Salesforce India,"Hyderabad, Telangana",QA & Testing,QA & Testing,PASS,Hyderabad,Hyderabad,PASS,Fresher/Full-time,Fresher/Full-time,PASS,0.88,Heuristic Rule Engine
+21,Product Analyst Intern,ServiceNow,"Hyderabad, Telangana",Product & Design,Product & Design,PASS,Hyderabad,Hyderabad,PASS,Internship,Internship,PASS,0.88,Heuristic Rule Engine
+22,Frontend Developer Intern,Darwinbox,"Hyderabad, Telangana",Frontend,Frontend,PASS,Hyderabad,Hyderabad,PASS,Internship,Internship,PASS,0.88,Heuristic Rule Engine
+23,Software Engineer Trainee,Zomato / Blinkit,"Gurgaon, Haryana, India",AI/ML,Backend,FAIL,Delhi NCR,Delhi NCR,PASS,Internship,Internship,PASS,0.88,Heuristic Rule Engine
+24,Associate Software Engineer - Fresher,Paytm,"Noida, Uttar Pradesh",Backend,Data & Analytics,FAIL,Delhi NCR,Delhi NCR,PASS,Fresher/Full-time,Fresher/Full-time,PASS,0.88,Heuristic Rule Engine
+25,Full Stack Intern,Cars24,"Gurgaon, Haryana",Full Stack,Full Stack,PASS,Delhi NCR,Delhi NCR,PASS,Internship,Internship,PASS,0.88,Heuristic Rule Engine
+26,AI Research Intern,Adobe India,"Noida, Uttar Pradesh",AI/ML,AI/ML,PASS,Delhi NCR,Delhi NCR,PASS,Internship,Internship,PASS,0.88,Heuristic Rule Engine
+27,Mobile App Developer Intern (Flutter / React Native),Urban Company,"Gurgaon, Haryana",Frontend,Frontend,PASS,Delhi NCR,Delhi NCR,PASS,Internship,Internship,PASS,0.88,Heuristic Rule Engine
+28,Technology Analyst - Fresher,Morgan Stanley,"Mumbai, Maharashtra, India",Backend,Backend,PASS,Mumbai,Mumbai,PASS,Fresher/Full-time,Fresher/Full-time,PASS,0.88,Heuristic Rule Engine
+29,Backend Engineering Trainee,BookMyShow,"Mumbai, Maharashtra",Backend,Backend,PASS,Mumbai,Mumbai,PASS,Internship,Internship,PASS,0.88,Heuristic Rule Engine
+30,Associate Data Scientist,JioCinema / Viacom18,"Mumbai, Maharashtra",AI/ML,AI/ML,PASS,Mumbai,Mumbai,PASS,Fresher/Full-time,Fresher/Full-time,PASS,0.88,Heuristic Rule Engine
+31,Member Technical Staff (MTS) - Fresher,Zoho Corporation,"Chennai, Tamil Nadu, India",Backend,Backend,PASS,Chennai,Chennai,PASS,Fresher/Full-time,Fresher/Full-time,PASS,0.88,Heuristic Rule Engine
+32,Software Engineer Trainee,Freshworks,"Chennai, Tamil Nadu",AI/ML,Frontend,FAIL,Chennai,Chennai,PASS,Internship,Internship,PASS,0.88,Heuristic Rule Engine
+33,Junior Python / Backend Developer,HackerRank,Remote (India),Backend,Backend,PASS,Remote,Remote,PASS,Fresher/Full-time,Fresher/Full-time,PASS,0.88,Heuristic Rule Engine
+34,AI Prompt Engineer & Data Evaluator Intern,Turing,Remote (India),AI/ML,AI/ML,PASS,Remote,Remote,PASS,Internship,Internship,PASS,0.88,Heuristic Rule Engine
+35,Graduate Systems Engineer,Tata Consultancy Services (TCS),Pan-India (Multiple Locations),Backend,Backend,PASS,Other India,Other India,PASS,Fresher/Full-time,Fresher/Full-time,PASS,0.88,Heuristic Rule Engine
+36,Associate Software Engineer - Campus 2025,Accenture India,"Pan-India (Bengaluru, Pune, Hyderabad, Gurgaon, Chennai)",Backend,Backend,PASS,Bengaluru,Bengaluru,PASS,Fresher/Full-time,Fresher/Full-time,PASS,0.88,Heuristic Rule Engine
+37,Project Engineer - Elite Fresher Program,Wipro,"Pan-India (Bengaluru, Pune, Hyderabad, Kolkata)",Backend,Other Tech,FAIL,Bengaluru,Bengaluru,PASS,Fresher/Full-time,Fresher/Full-time,PASS,0.88,Heuristic Rule Engine
+38,Programmer Analyst Trainee (PAT),Cognizant India,"Pan-India (Pune, Chennai, Bengaluru, Kolkata, Coimbatore)",AI/ML,Frontend,FAIL,Bengaluru,Bengaluru,PASS,Internship,Internship,PASS,0.88,Heuristic Rule Engine
+39,Graduate Engineer Trainee - Digital,LTIMindtree,"Mumbai, Pune, Bengaluru",AI/ML,Backend,FAIL,Bengaluru,Bengaluru,PASS,Internship,Internship,PASS,0.88,Heuristic Rule Engine
+40,Associate Software Developer - 2025 Batch,Capgemini India,"Bengaluru, Pune, Mumbai, Hyderabad",Backend,Backend,PASS,Bengaluru,Bengaluru,PASS,Fresher/Full-time,Fresher/Full-time,PASS,0.88,Heuristic Rule Engine
+41,Backend Intern (Node/Python),KreditBee,"Bengaluru, Karnataka",Backend,Backend,PASS,Bengaluru,Bengaluru,PASS,Internship,Internship,PASS,0.88,Heuristic Rule Engine
+42,Frontend Engineer Intern,Groww,"Bengaluru, Karnataka",Frontend,Frontend,PASS,Bengaluru,Bengaluru,PASS,Internship,Internship,PASS,0.88,Heuristic Rule Engine
+43,Software Engineer Intern (Developer Tools),Postman,Bengaluru / Remote,Backend,Backend,PASS,Bengaluru,Remote,FAIL,Internship,Internship,PASS,0.88,Heuristic Rule Engine
+44,Junior Go / Haskell Developer,Hasura,Remote (India),Backend,Backend,PASS,Remote,Remote,PASS,Fresher/Full-time,Fresher/Full-time,PASS,0.88,Heuristic Rule Engine
+45,Data Analyst Trainee,InMobi,"Bengaluru, Karnataka",AI/ML,Data & Analytics,FAIL,Bengaluru,Bengaluru,PASS,Internship,Internship,PASS,0.88,Heuristic Rule Engine
+46,Software Engineer in Test (SDET) - Fresher,BrowserStack,Mumbai / Remote,QA & Testing,QA & Testing,PASS,Mumbai,Remote,FAIL,Fresher/Full-time,Fresher/Full-time,PASS,0.88,Heuristic Rule Engine
+47,Android Developer Intern,Spinny,"Gurgaon, Haryana",Mobile,Mobile,PASS,Delhi NCR,Delhi NCR,PASS,Internship,Internship,PASS,0.88,Heuristic Rule Engine
+48,Blockchain & Web3 Developer Intern,CoinDCX,Mumbai / Remote,AI/ML,Backend,FAIL,Mumbai,Remote,FAIL,Internship,Internship,PASS,0.88,Heuristic Rule Engine
+49,Operations Research & Data Intern,Delhivery,"Gurgaon, Haryana",Backend,Other Tech,FAIL,Delhi NCR,Delhi NCR,PASS,Internship,Internship,PASS,0.88,Heuristic Rule Engine
+50,Full Stack Intern,Licious,"Bengaluru, Karnataka",Full Stack,Full Stack,PASS,Bengaluru,Bengaluru,PASS,Internship,Internship,PASS,0.88,Heuristic Rule Engine

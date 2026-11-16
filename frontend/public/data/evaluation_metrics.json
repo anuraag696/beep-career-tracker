@@ -1,0 +1,19 @@
+{
+  "sample_size": 50,
+  "role_accuracy_percent": 74.0,
+  "city_accuracy_percent": 94.0,
+  "job_type_accuracy_percent": 100.0,
+  "overall_exact_match_percent": 70.0,
+  "role_correct_count": "37/50",
+  "city_correct_count": "47/50",
+  "job_type_correct_count": "50/50",
+  "cost_model": {
+    "model_name": "Google Gemini 1.5 Flash",
+    "input_cost_per_m_tokens": "$0.075",
+    "output_cost_per_m_tokens": "$0.30",
+    "average_input_tokens_per_post": 250,
+    "average_output_tokens_per_post": 60,
+    "cost_per_1000_posts_usd": "$0.0368",
+    "cost_per_1000_posts_inr": "\u20b93.18"
+  }
+}
