@@ -8,7 +8,7 @@
 
 ## 1. Project & Repository Links
 - **Live Web Application:** *(Add your deployed Vercel/Render URL here)*
-- **GitHub Repository:** *(Add your GitHub repo link here)*
+- **GitHub Repository:** [https://github.com/anuraag696/beep-career-tracker](https://github.com/anuraag696/beep-career-tracker)
 - **Loom Video Walkthrough (Face + Screen, <5 min):** *(Add your Loom URL here)*
 - **Evaluation Dataset (CSV):** `data/evaluation_50_posts.csv`
 
