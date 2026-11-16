@@ -1,6 +1,9 @@
-# Beep Fresher & Internship Career Hub 🚀
-> **Automated, AI-Tagged Real-Time Job Discovery Platform for College Students in India**  
-> *Built for the Beep (EventBeep) Gen AI & Engineering Assessment by **Anuraag Gupta***
+<div align="center">
+  <img src="./beep-logo.png" width="100" alt="Beep Logo" />
+  <h1>Beep Fresher & Internship Career Hub 🚀</h1>
+  <p><strong>Automated, AI-Tagged Real-Time Job Discovery Platform for College Students in India</strong></p>
+  <p><em>Built for the Beep (EventBeep) Gen AI & Engineering Assessment by <strong>Anuraag Gupta</strong></em></p>
+</div>
 
 [![GitHub Actions Daily Refresh](https://img.shields.io/badge/Daily%20Refresh-Automated%20Cron-emerald?style=flat-square&logo=githubactions)](https://github.com)
 [![Jobs Live](https://img.shields.io/badge/Active%20Jobs-690%2B-blue?style=flat-square)](https://github.com)

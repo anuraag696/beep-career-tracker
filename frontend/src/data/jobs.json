@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-11-16T10:04:10.027489Z",
-    "last_updated_human": "November 16, 2026 at 03:34 PM IST",
-    "total_jobs": 693,
+    "last_updated": "2026-11-16T10:36:57.345574Z",
+    "last_updated_human": "November 16, 2026 at 04:06 PM IST",
+    "total_jobs": 666,
     "sources": [
       "Arbeitnow API",
       "Remotive API",
@@ -11,11 +11,11 @@
       "Curated Tier-1 Indian Drives"
     ],
     "dedup_stats": {
-      "initial_count": 718,
-      "unique_count": 693,
-      "url_duplicates": 0,
-      "hash_duplicates": 25,
-      "total_duplicates_removed": 25
+      "initial_count": 716,
+      "unique_count": 666,
+      "url_duplicates": 28,
+      "hash_duplicates": 22,
+      "total_duplicates_removed": 50
     },
     "cost_per_1000_posts_usd": 0.0367,
     "cost_per_1000_posts_inr": 3.18,
@@ -6213,405 +6213,6 @@
       "tagger_used": "Heuristic Rule Engine"
     },
     {
-      "title": "IT Administrator - (Senior) IT Administrator",
-      "company": "Apex Ai",
-      "raw_location": "Munich",
-      "description": "<div>\n<p><span data-contrast=\"auto\">Apex.AI is an international software company developing safety-certified, developer-friendly, and scalable software for mobility and autonomous systems. Our technology enables companies to build software-defined vehicles and intelligent machines faster, safer, and more efficiently.</span><span data-ccp-props=\"{&quot;134233117&quot;:false,&quot;134233118&quot;:false,&quot;335559738&quot;:240,&quot;335559739&quot;:240}\">&nbsp;</span></p>\n</div>\n<div>\n<p><span data-contrast=\"auto\">We are looking for a </span><span data-contrast=\"auto\">hands-on <strong>IT Administrator / (Senior) IT Administrator</strong></span><span data-contrast=\"auto\"><strong> </strong>to take ownership of the day-to-day operation and continuous improvement of our IT environment in Germany while supporting our international teams.</span><span data-ccp-props=\"{&quot;134233117&quot;:false,&quot;134233118&quot;:false,&quot;335559738&quot;:240,&quot;335559739&quot;:240}\">&nbsp;</span></p>\n</div>\n<div>\n<p><span data-contrast=\"auto\">This is a highly practical role for someone who enjoys solving technical problems, administering systems, supporting users, and continuously improving IT in",
-      "apply_url": "https://www.arbeitnow.com/jobs/companies/apex-ai/it-administrator-senior-it-administrator-munich-16121",
-      "source": "Arbeitnow API",
-      "tags": [
-        "IT"
-      ],
-      "posted_at": 1794691598,
-      "dedup_hash": "63d4fdb180a205d7c8419dc0b03d46b2",
-      "role": "Other Tech",
-      "city": "Other India",
-      "job_type": "Fresher/Full-time",
-      "stipend_salary": "Not Disclosed",
-      "confidence": 0.88,
-      "tagger_used": "Heuristic Rule Engine"
-    },
-    {
-      "title": "Senior Software Engineer - Data & AI Platform (m/w/d)",
-      "company": "Vivenu",
-      "raw_location": "Düsseldorf",
-      "description": "<div><span style=\"font-size: 18px\"><b>Redefine the future of live entertainment tech</b></span></div><div><br></div><div>Welcome to vivenu, the global leader in event ticketing tech and one of the world’s fastest-growing live entertainment tech firms. We are transforming event ticketing for global leaders like the Grammys, the Golden Globes, Stanford University and the Hockenheimring turning what was once a simple transaction into a strategic business advantage. Backed by over $65 million in funding, our platform empowers event organizers to own their brand experience, unlock deep data insights, and seamlessly integrate ticketing into their digital infrastructure.</div><div><br></div><div>With six offices worldwide and growing, we deliver a customizable, intuitive solution and industry-leading support that simplify even the most complex ticketing challenges –&nbsp;helping organizers deliver exceptional experiences and drive real growth.</div><div><br></div><div>Join us and build the future of live entertainment.</div><div><br></div><div>\n<div>With&nbsp;over <strong>10 million end users</strong>&nbsp;and usage quadrupling annually, our infrastructure now handles&nbsp;<strong>over 1 ",
-      "apply_url": "https://www.arbeitnow.com/jobs/companies/vivenu/senior-software-engineer-data-ai-platform-dusseldorf-101649",
-      "source": "Arbeitnow API",
-      "tags": [
-        "Product & Development"
-      ],
-      "posted_at": 1794691598,
-      "dedup_hash": "68779a6504603f0f21ed6b6e1a683aea",
-      "role": "AI/ML",
-      "city": "Other India",
-      "job_type": "Fresher/Full-time",
-      "stipend_salary": "Not Disclosed",
-      "confidence": 0.88,
-      "tagger_used": "Heuristic Rule Engine"
-    },
-    {
-      "title": "Senior Security Engineer - AppSec (d/f/m)",
-      "company": "Vivenu",
-      "raw_location": "Remote Germany",
-      "description": "<div><span style=\"font-size: 18px\"><b>Redefine the future of live entertainment tech</b></span></div><div><br></div><div>Welcome to vivenu, the global leader in event ticketing tech and one of the world’s fastest-growing live entertainment tech firms. We are transforming event ticketing for global leaders like the Grammys, the Golden Globes, Stanford University and the Hockenheimring turning what was once a simple transaction into a strategic business advantage. Backed by over $65 million in funding, our platform empowers event organizers to own their brand experience, unlock deep data insights, and seamlessly integrate ticketing into their digital infrastructure.</div><div><br></div><div>With six offices worldwide and growing, we deliver a customizable, intuitive solution and industry-leading support that simplify even the most complex ticketing challenges –&nbsp;helping organizers deliver exceptional experiences and drive real growth.</div><div><br></div><div>Join us and build the future of live entertainment.</div><div><br></div><div><span style=\"font-size: 15px;\">With&nbsp;</span><strong style=\"font-size: 15px;\">over 10 million end users</strong><span style=\"font-size: 15px;\">&",
-      "apply_url": "https://www.arbeitnow.com/jobs/companies/vivenu/remote-senior-security-engineer-appsec-40606",
-      "source": "Arbeitnow API",
-      "tags": [
-        "Product & Development"
-      ],
-      "posted_at": 1794691598,
-      "dedup_hash": "cd83f06f4fd71851871684626cc9f4d8",
-      "role": "Other Tech",
-      "city": "Remote",
-      "job_type": "Fresher/Full-time",
-      "stipend_salary": "Not Disclosed",
-      "confidence": 0.88,
-      "tagger_used": "Heuristic Rule Engine"
-    },
-    {
-      "title": "Go-To-Market & Growth Intern (d/f/m)",
-      "company": "Vivenu",
-      "raw_location": "Düsseldorf",
-      "description": "<div><b><span style=\"font-size: 18px\">Gestalte die Zukunft von Live-Entertainment-Tech</span></b></div><div><br></div><div>Willkommen bei vivenu – dem globalen Vorreiter für Event-Ticketing-Technologie und einem der weltweit schnellst wachsenden Tech-Unternehmen im Live-Entertainment. Wir revolutionieren  Ticketing für internationale Größen wie die Grammys, die Golden Globes, die Stanford University und den Hockenheimring – und machen aus einer einfachen Ticketing-Transaktion einen echten strategischen Wettbewerbsvorteil. Mit über 65 Millionen US-Dollar an Finanzierung im Rücken ermöglicht unsere Plattform Veranstaltern, ihre Markenpräsenz selbst zu steuern, tiefgreifende Datenanalysen zu nutzen und Ticketing nahtlos in ihre digitale Infrastruktur zu integrieren.</div><div><br></div><div>Mit sechs Standorten weltweit bieten wir eine intuitive, individuell anpassbare Lösung und branchenführenden Support, der selbst die komplexesten Herausforderungen im Ticketing vereinfacht. So helfen wir Veranstaltern, außergewöhnliche Erlebnisse zu schaffen und nachhaltiges Wachstum zu erzielen.</div><div><br></div><div>Werde Teil unserer Mission – und gestalte die Zukunft von Live-Entertainment m",
-      "apply_url": "https://www.arbeitnow.com/jobs/companies/vivenu/go-to-market-growth-intern-dusseldorf-11744",
-      "source": "Arbeitnow API",
-      "tags": [
-        "Operations"
-      ],
-      "posted_at": 1794691598,
-      "dedup_hash": "9cc8fec378ed38e10856394b8ed64f78",
-      "role": "Other Tech",
-      "city": "Other India",
-      "job_type": "Internship",
-      "stipend_salary": "Not Disclosed",
-      "confidence": 0.88,
-      "tagger_used": "Heuristic Rule Engine"
-    },
-    {
-      "title": "Software Engineer, Data",
-      "company": "engelhart",
-      "raw_location": "Berlin",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h2&gt;&lt;strong&gt;About Us&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;Engelhart was founded in 2013 by BTG Pactual Group as a commodities trading company. Our business model is “asset light” and highly diversified – giving us the ability to adapt effectively and nimbly to changing market conditions. We have assembled successful multidisciplinary teams, leveraging advanced fundamental analysis with deep quantitative and weather research capabilities.&amp;nbsp; Our activities are underpinned by strong risk management practices and by powerful technology and operational excellence. We have exceptional teams with diverse global backgrounds and decades of experience, and are driven by a highly collaborative culture, across products and competencies.&lt;/p&gt;\n&lt;p&gt;In 2024, Engelhart acquired Trailstone, a global energy trading and technology company. The acquisition provides us with new expertise, analytics and proprietary technology which is being used to provide risk management and optimisation services to help maximise the value of our clients’ renewable power. The acquisition also expanded Engelhart’s capabilities into physical natural ga",
-      "apply_url": "https://www.arbeitnow.com/jobs/companies/engelhart/software-engineer-data-berlin-351586",
-      "source": "Arbeitnow API",
-      "tags": [
-        "Technology"
-      ],
-      "posted_at": 1794682518,
-      "dedup_hash": "064022c6c6f12c1e19150bc968385b21",
-      "role": "Backend",
-      "city": "Other India",
-      "job_type": "Fresher/Full-time",
-      "stipend_salary": "Not Disclosed",
-      "confidence": 0.88,
-      "tagger_used": "Heuristic Rule Engine"
-    },
-    {
-      "title": "Operations & Strategy Manager - Energy Markets",
-      "company": "trawa",
-      "raw_location": "Berlin HQ",
-      "description": "<h1>Operations &amp; Strategy Manager</h1><p style=\"min-height:1.5em\">Permanent employee · Full-time · Berlin (HQ)</p><div style=\"min-height:1.2em;margin-top:0px;margin-bottom:0px\"> </div><h2>Our mission for you</h2><p style=\"min-height:1.5em\">European energy costs are twice as high as in the US and China, and electricity demand is expected to double by 2050. This puts European industry under massive cost pressure – and companies need to act now.</p><p style=\"min-height:1.5em\">trawa is building the solution: the first integrated B2B energy platform that brings together energy procurement, energy management and the marketing of flexible assets in one product. This helps companies save up to 30% on their recurring electricity costs while switching to renewable energy.</p><p style=\"min-height:1.5em\">We're the fastest-growing B2B energy platform in Europe. Active in Germany and Austria now, and expanding operations to a third market in 2027. We're on the road to European scale and move fast – the market window is open and we intend to own it.</p><p style=\"min-height:1.5em\">Now we are looking for an Operations &amp; Strategy Manager to own a business-critical part of our energy value ch",
-      "apply_url": "https://www.arbeitnow.com/jobs/companies/trawa/operations-strategy-manager-energy-markets-berlin-346294",
-      "source": "Arbeitnow API",
-      "tags": [
-        "Energy Operations"
-      ],
-      "posted_at": 1794681612,
-      "dedup_hash": "920bf188a9417a52621a9b8f62b27c9f",
-      "role": "Other Tech",
-      "city": "Other India",
-      "job_type": "Fresher/Full-time",
-      "stipend_salary": "Not Disclosed",
-      "confidence": 0.88,
-      "tagger_used": "Heuristic Rule Engine"
-    },
-    {
-      "title": "Portfolio Accountant",
-      "company": "Access Destination Services",
-      "raw_location": "Remote",
-      "description": "<p style=\"min-height:1.5em\"><strong>Access Your Potential.</strong><br />Join us to create and deliver experiences that inspire people, spark connection, and bring imagination to life—while having a lot of fun doing it.</p><p style=\"min-height:1.5em\"></p><h2>About the Job</h2><p style=\"min-height:1.5em\">We’re seeking a detail-oriented and organized <strong>Portfolio Accountant</strong> to join our Finance &amp; Accounting team! In this role, you’ll manage the day-to-day accounting operations for an assigned Access territory, ensuring accurate financial records, timely reporting, and effective financial support for territory operations.</p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\">Working closely with territory leadership and the broader Finance &amp; Accounting team, you’ll oversee accounts payable, accounts receivable, general ledger transactions, month-end closing activities, and financial reporting. This is a great opportunity for someone who enjoys working independently, solving problems, and building strong relationships with internal teams while keeping financial operations running smoothly.</p><p style=\"min-height:1.5em\"></p><h2>What You'll Be Doing</h2><p ",
-      "apply_url": "https://www.arbeitnow.com/jobs/companies/access-destination-services/remote-portfolio-accountant-384566",
-      "source": "Arbeitnow API",
-      "tags": [
-        "Corporate Services Group"
-      ],
-      "posted_at": 1794681612,
-      "dedup_hash": "ee508d0a927afbbe3cb8d2814878497f",
-      "role": "Other Tech",
-      "city": "Remote",
-      "job_type": "Fresher/Full-time",
-      "stipend_salary": "Not Disclosed",
-      "confidence": 0.88,
-      "tagger_used": "Heuristic Rule Engine"
-    },
-    {
-      "title": "Events Auditor Associate",
-      "company": "Access Destination Services",
-      "raw_location": "Remote",
-      "description": "<p style=\"min-height:1.5em\"><strong>Access Your Potential.</strong><br />Join us to create and deliver experiences that inspire people, spark connection, and bring imagination to life—while having a lot of fun doing it.</p><p style=\"min-height:1.5em\"></p><h2>About the Job</h2><p style=\"min-height:1.5em\">We're seeking a detail-oriented and organized <strong>Events Auditing Associate</strong> to join our Finance &amp; Accounting team! In this role, you'll support the billing and financial closeout process for familiarization (FAM) programs, as well as supplier referral invoicing. You'll also work closely with territory Events Auditors to prepare billing documentation, review program financials, and ensure accurate and timely program closeouts.</p><p style=\"min-height:1.5em\">The ideal candidate enjoys working with numbers, has a strong attention to detail, and is comfortable managing multiple priorities. You'll collaborate with Event Managers, Sales Managers, Accounting, and other internal teams to track outstanding items, resolve discrepancies, and keep program financial records organized and up to date.</p><p style=\"min-height:1.5em\"></p><h2>What You'll Be Doing</h2><p style=\"min-he",
-      "apply_url": "https://www.arbeitnow.com/jobs/companies/access-destination-services/remote-events-auditor-associate-460273",
-      "source": "Arbeitnow API",
-      "tags": [
-        "Corporate Services Group"
-      ],
-      "posted_at": 1794681612,
-      "dedup_hash": "747fdc6aab8650012c7b24aefc7eb1a8",
-      "role": "Other Tech",
-      "city": "Remote",
-      "job_type": "Fresher/Full-time",
-      "stipend_salary": "Not Disclosed",
-      "confidence": 0.88,
-      "tagger_used": "Heuristic Rule Engine"
-    },
-    {
-      "title": "Staff Frontend Engineer (f/m/d)",
-      "company": "bunch",
-      "raw_location": "Berlin",
-      "description": "<p style=\"min-height:1.5em\"><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.bunch.capital/\"><u>bunch</u></a> is building the backbone of private markets. We are enabling next-gen fund operations with one integrated system that combines secure data infrastructure, AI-powered workflows and expert fund services. If you value ownership, growth through real responsibility, and working with a thoughtful, ambitious team, this role might be for you.</p><h1><strong><br />Your Role</strong></h1><p style=\"min-height:1.5em\">As a Staff Frontend Engineer at bunch, you will shape the architecture, quality, and developer experience of the product surfaces our customers and internal teams rely on every day. You will work across product teams to make our frontend systems scalable, reliable, accessible, and fast — while helping engineers ship with clarity and confidence.</p><p style=\"min-height:1.5em\">This is not only a delivery role. Your decisions will influence how frontend engineering at bunch evolves: the standards we adopt, the patterns we reuse, the quality bar we hold, and the way product, design, and engineering collaborate to build excellent user experiences.</p><p s",
-      "apply_url": "https://www.arbeitnow.com/jobs/companies/bunch/staff-frontend-engineer-berlin-95913",
-      "source": "Arbeitnow API",
-      "tags": [
-        "Tech"
-      ],
-      "posted_at": 1794681612,
-      "dedup_hash": "882354ff89df064ae89b542d0242af69",
-      "role": "Frontend",
-      "city": "Other India",
-      "job_type": "Fresher/Full-time",
-      "stipend_salary": "Not Disclosed",
-      "confidence": 0.88,
-      "tagger_used": "Heuristic Rule Engine"
-    },
-    {
-      "title": "Tax & Accounting Operations Assistant (f/m/d)",
-      "company": "bunch",
-      "raw_location": "Berlin",
-      "description": "<p style=\"min-height:1.5em\"><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.bunch.capital/\"><u>bunch</u></a> is building the backbone of private markets. We are enabling next-gen fund operations with one integrated system that combines secure data infrastructure, AI-powered workflows and expert fund services. If you value ownership, growth through real responsibility, and working with a thoughtful, ambitious team, this role might be for you.</p><h2><br /><strong>Your Role</strong></h2><p style=\"min-height:1.5em\">As a <strong>Tax &amp; Accounting Operations Assistant</strong>, you will support the day-to-day operations of our Tax &amp; Accounting teams and help ensure that our processes run reliably and efficiently.</p><p style=\"min-height:1.5em\">You will:</p><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Coordinate recurring tax and accounting workflows, keeping track of deadlines, tasks and open items</p></li><li><p style=\"min-height:1.5em\">Maintain client, engagement and process data across our operational systems</p></li><li><p style=\"min-height:1.5em\">Manage incoming correspondence and documentation, including communication with tax authori",
-      "apply_url": "https://www.arbeitnow.com/jobs/companies/bunch/tax-accounting-operations-assistant-berlin-15898",
-      "source": "Arbeitnow API",
-      "tags": [
-        "Delivery"
-      ],
-      "posted_at": 1794681612,
-      "dedup_hash": "d6e6f4efc797f9c9eee43ac97f40708b",
-      "role": "Other Tech",
-      "city": "Other India",
-      "job_type": "Fresher/Full-time",
-      "stipend_salary": "Not Disclosed",
-      "confidence": 0.88,
-      "tagger_used": "Heuristic Rule Engine"
-    },
-    {
-      "title": "Account Executive | Fund Administration | VC | DE (f/m/d)",
-      "company": "bunch",
-      "raw_location": "Germany",
-      "description": "<p style=\"min-height:1.5em\"><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.bunch.capital/\"><u>bunch</u></a> is building the backbone of private markets. We are enabling next-gen fund operations with one integrated system that combines secure data infrastructure, AI-powered workflows and expert fund services. If you value ownership, growth through real responsibility, and working with a thoughtful, ambitious team, this role might be for you.</p><p style=\"min-height:1.5em\"></p><h1><strong>Your Role</strong></h1><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">This role is key to supporting bunch's growth going forward. You will establish and execute our commercial strategy with Enterprise customers, including larger VC funds, leading to bunch becoming the industry standard for private market investments.</p></li><li><p style=\"min-height:1.5em\">A successful hire will contribute to setting our Commercial strategy at pace. You will play a key role in building further market knowledge and relations with potential VC customers, supporting bunch during a pivotal time.</p><p style=\"min-height:1.5em\"></p></li></ul><h1><strong>Top responsibilities</strong>",
-      "apply_url": "https://www.arbeitnow.com/jobs/companies/bunch/account-executive-fund-administration-vc-de-germany-282690",
-      "source": "Arbeitnow API",
-      "tags": [
-        "Commercial"
-      ],
-      "posted_at": 1794681612,
-      "dedup_hash": "83fcfee20998762a80018a101a127f72",
-      "role": "Other Tech",
-      "city": "Other India",
-      "job_type": "Fresher/Full-time",
-      "stipend_salary": "Not Disclosed",
-      "confidence": 0.88,
-      "tagger_used": "Heuristic Rule Engine"
-    },
-    {
-      "title": "(Senior) Account Executive | Fund Administration | VC | DE (f/m/d)",
-      "company": "bunch",
-      "raw_location": "Germany",
-      "description": "<p style=\"min-height:1.5em\"><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.bunch.capital/\"><u>bunch</u></a> is building the backbone of private markets. We are enabling next-gen fund operations with one integrated system that combines secure data infrastructure, AI-powered workflows and expert fund services. If you value ownership, growth through real responsibility, and working with a thoughtful, ambitious team, this role might be for you.</p><p style=\"min-height:1.5em\"></p><h1><strong>Your Role</strong></h1><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">This role is key to supporting bunch's growth going forward. You will establish and execute our commercial strategy with Enterprise customers, including larger VC funds, leading to bunch becoming the industry standard for private market investments.</p></li><li><p style=\"min-height:1.5em\">A successful hire will contribute to setting our Commercial strategy at pace. You will play a key role in building further market knowledge and relations with potential VC customers, supporting bunch during a pivotal time.</p><p style=\"min-height:1.5em\"></p></li></ul><h1><strong>Top responsibilities</strong>",
-      "apply_url": "https://www.arbeitnow.com/jobs/companies/bunch/senior-account-executive-fund-administration-vc-de-germany-326789",
-      "source": "Arbeitnow API",
-      "tags": [
-        "Commercial"
-      ],
-      "posted_at": 1794681612,
-      "dedup_hash": "767ac6436f16d3cf9fe9eee8cff7a54c",
-      "role": "Other Tech",
-      "city": "Other India",
-      "job_type": "Fresher/Full-time",
-      "stipend_salary": "Not Disclosed",
-      "confidence": 0.88,
-      "tagger_used": "Heuristic Rule Engine"
-    },
-    {
-      "title": "Chief of Staff – Corporate Affairs (f/m/d)",
-      "company": "Focused",
-      "raw_location": "Darmstadt, DE",
-      "description": "<h1>About Focused Energy</h1><p style=\"min-height:1.5em\">Focused Energy is building the future of clean energy through laser-driven inertial fusion. Backed by our $240M Series A, the largest fully secured Series A in the global fusion industry, we are scaling rapidly across multiple geographies.</p><p style=\"min-height:1.5em\">Based in Germany and the US, we have brought together the top scientific and engineering minds using proven technologies to unlock fusion power at commercial scale. Focused Energy is working to realize game-changing scientific innovation that promises to deliver a clean, sustainable and abundant source of power globally.</p><p style=\"min-height:1.5em\"></p><h2>Your Role</h2><p style=\"min-height:1.5em\">We are looking for a Chief of Staff – Corporate Affairs (f/m/d): the first point of contact and the engine room of our Corporate Affairs unit. You will report directly to our Chief Corporate Affairs Officer (CCAO) and run the day-to-day work that keeps a growing, cross-border agenda coherent and moving. This frees the CCAO to focus on relationships and strategy.</p><p style=\"min-height:1.5em\">You will own ambiguous, cross-functional execution independently. Strate",
-      "apply_url": "https://www.arbeitnow.com/jobs/companies/focused/chief-of-staff-corporate-affairs-darmstadt-331143",
-      "source": "Arbeitnow API",
-      "tags": [
-        "Corporate Affairs"
-      ],
-      "posted_at": 1794681612,
-      "dedup_hash": "42ae561620c99a9b5b11bc0e99c9f6b8",
-      "role": "Other Tech",
-      "city": "Other India",
-      "job_type": "Fresher/Full-time",
-      "stipend_salary": "Not Disclosed",
-      "confidence": 0.88,
-      "tagger_used": "Heuristic Rule Engine"
-    },
-    {
-      "title": "Facilities Architect (f/m/d)",
-      "company": "Focused",
-      "raw_location": "Biblis, DE",
-      "description": "<h1>About Focused Energy</h1><p style=\"min-height:1.5em\">Focused Energy is building the future of clean energy through laser-driven inertial fusion. Backed by our $240M Series A - the largest fully secured Series A in the global fusion industry  we are scaling rapidly across multiple geographies. </p><p style=\"min-height:1.5em\">Based in Germany and the US, we have brought together the top scientific and engineering minds using proven technologies to unlock fusion power at commercial scale. Focused Energy is working to realize game-changing scientific innovation that promises to deliver a clean, sustainable and abundant source of power globally.</p><p style=\"min-height:1.5em\"></p><h1>Your Role</h1><p style=\"min-height:1.5em\">Focused Energy is developing its flagship fusion facility at Biblis, Germany and this role sits at the heart of making it happen. As Facility Development Lead, you’ll own the integrated development plan for Focused Energy’s Biblis facility. You’ll translate technical requirements into coordinated facility, utility, planning, and permitting workstreams, aligning engineering teams with RWE/Biblis stakeholders and external design partners. You’ll drive priorities, ",
-      "apply_url": "https://www.arbeitnow.com/jobs/companies/focused/facilities-architect-biblis-131424",
-      "source": "Arbeitnow API",
-      "tags": [
-        "Engineering"
-      ],
-      "posted_at": 1794681612,
-      "dedup_hash": "738a9b2e51f61de6d2eaeb81b12a24cf",
-      "role": "Other Tech",
-      "city": "Other India",
-      "job_type": "Fresher/Full-time",
-      "stipend_salary": "Not Disclosed",
-      "confidence": 0.88,
-      "tagger_used": "Heuristic Rule Engine"
-    },
-    {
-      "title": "Leiter Technische Entwicklung (m/w/d)",
-      "company": "Monika Moser, Executive Search",
-      "raw_location": "Hörselberg-Hainich",
-      "description": "<p>Gesucht wird keine Führungskraft, die Technik nur noch aus Präsentationen kennt, sondern ein Ingenieur, der selbst an Lösungen mitarbeitet. Sie verstehen die Prozesse, führen ein kleines Team und treiben Verbesserungen gemeinsam mit ihm voran. Sie berichten direkt an den Betriebsleiter und übernehmen seine Vertretung. So sitzen Sie nah an den Entscheidungen, ohne den Bezug zur praktischen Ingenieurarbeit zu verlieren.</p><h2>Ihre Aufgaben:</h2><ul><li><p>Teamführung: Sie leiten ein interdisziplinäres Team aus Mechanik, Elektrotechnik und IT und sorgen dafür, dass alle an einem Strang ziehen, auch wenn jede Disziplin eine eigene Vorstellung davon hat, wo das Problem liegt.</p></li><li><p>Anlagen weiterentwickeln: Sie entwickeln bestehende Maschinen und Anlagen technisch weiter und bringen Ihr Wissen in Automatisierungstechnik und SPS-Programmierung selbst ein, nicht nur in der Planung, sondern auch direkt an der Steuerung.</p></li><li><p>Prozesse optimieren: Sie erarbeiten Lösungen für mehr Anlagenverfügbarkeit, höheren Durchsatz, bessere Qualität und weniger Energieverbrauch in den Produktions- und Recyclingprozessen.</p></li><li><p>Projektführung und Investitionen: Sie begleite",
-      "apply_url": "https://www.arbeitnow.com/jobs/companies/monika-moser-executive-search/leiter-technische-entwicklung-horselberg-hainich-176692",
-      "source": "Arbeitnow API",
-      "tags": [
-        "Automation Engineering"
-      ],
-      "posted_at": 1794677442,
-      "dedup_hash": "7072d888dcbd67960de963d612247c9a",
-      "role": "Other Tech",
-      "city": "Other India",
-      "job_type": "Fresher/Full-time",
-      "stipend_salary": "Not Disclosed",
-      "confidence": 0.88,
-      "tagger_used": "Heuristic Rule Engine"
-    },
-    {
-      "title": "Senior Solutions Engineer",
-      "company": "Jfrog",
-      "raw_location": "",
-      "description": "&lt;div class=&quot;col-lg-6 content&quot;&gt;\n&lt;p class=&quot;p1&quot;&gt;&lt;strong&gt;Residency in Germany is required. This role is currently fully remote&lt;/strong&gt; &lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;#LI-Remote&lt;/span&gt;&lt;/p&gt;\n&lt;/div&gt;\n&lt;p&gt;At JFrog, we’re reinventing DevOps to help the world’s greatest companies innovate -- and we want you along for the ride. This is a special place with a unique combination of brilliance, spirit and just all-around great people. Here, if you’re willing to do more, your career can take off. And since software plays a central role in everyone’s lives, you’ll be part of an important mission. Thousands of customers, including the majority of the Fortune 100, trust JFrog to manage, accelerate, and secure their software delivery from code to production -- a concept we call “liquid software.” Wouldn&#39;t it be amazing if you could join us in our journey?&lt;/p&gt;\n&lt;p&gt;We are looking for a Solutions Engineer to be on the front lines, working closely with our strategic customers and prospects, guiding them on how to build r",
-      "apply_url": "https://www.arbeitnow.com/jobs/companies/jfrog/senior-solutions-engineer-419652",
-      "source": "Arbeitnow API",
-      "tags": [
-        "Solutions Engineering"
-      ],
-      "posted_at": 1794671721,
-      "dedup_hash": "17d65fe3ba5538707fc19cba3e0b7d40",
-      "role": "Other Tech",
-      "city": "Remote",
-      "job_type": "Fresher/Full-time",
-      "stipend_salary": "Not Disclosed",
-      "confidence": 0.88,
-      "tagger_used": "Heuristic Rule Engine"
-    },
-    {
-      "title": "(Senior) Software Engineer (d/f/m)",
-      "company": "Taxfix",
-      "raw_location": "Berlin",
-      "description": "<h2><strong>Our story:</strong></h2><p style=\"min-height:1.5em\">Every year millions of people are either filing their taxes in fear or giving up on their tax refund altogether. We're working on fixing that. Our intuitive app enables anyone, regardless of education or background, to file their taxes with newfound confidence.</p><p style=\"min-height:1.5em\">Spread across Germany, Spain and the UK, the team at Taxfix Group with its brands Taxfix and Steuerbot, is a compassionate group of solution-finders. We speak our minds openly, and with over 400 professionals, including tax experts, developers, and IT security experts, we're rich in ideas and voices. The group has facilitated more than 3.5 billion euros in tax refunds for its customers since its founding in 2016.</p><p style=\"min-height:1.5em\"></p><h2>The opportunity<strong>:</strong></h2><p style=\"min-height:1.5em\">As a (Senior) Software Engineer, you’ll build core features for our flagship product, turning complex tax scenarios into simple, reliable experiences. You’ll bring a builder-first mindset: staying close to customer problems, using AI and modern engineering tools to move from idea to impact quickly, and taking ownership ",
-      "apply_url": "https://www.arbeitnow.com/jobs/companies/taxfix/senior-software-engineer-berlin-180463",
-      "source": "Arbeitnow API",
-      "tags": [
-        "Product Engineering"
-      ],
-      "posted_at": 1794670813,
-      "dedup_hash": "f6b551774071efb899e516725ddf9056",
-      "role": "Backend",
-      "city": "Other India",
-      "job_type": "Fresher/Full-time",
-      "stipend_salary": "Not Disclosed",
-      "confidence": 0.88,
-      "tagger_used": "Heuristic Rule Engine"
-    },
-    {
-      "title": "Fullstack Software Engineer (m/f/d)",
-      "company": "Dataguard",
-      "raw_location": "Munich",
-      "description": "<h2><strong>YOUR JOB</strong></h2><p style=\"min-height:1.5em\">AI can write code now. It can't decide what's worth building, and it can't tell whether its own output is right. That part is yours. As a Fullstack Software Engineer in our customer-facing feature team, you'll take on real problems, often co-leading an initiative with a fellow engineer. You'll carry them from the first discovery conversation to production and beyond, working with Product, Design and engineers who would rather own an outcome than close a ticket. What you build lands with many companies working to keep their data, and the people behind it, safe.</p><h2></h2><h2><strong>WE PROTECT THE PEOPLE BEHIND THE DATA</strong></h2><p style=\"min-height:1.5em\">We are a fast-growing security and compliance tech company with a clear purpose: we protect the people behind the data. With over 200 team members worldwide and with offices in Munich, Berlin, London, Stockholm, and Vienna, we help more than 4,000 global customers get certified fast and build a strong and scalable risk posture. With AI-powered automation, self-serve capabilities, and additional tailored expert advice, we offer our customers a seamless security and",
-      "apply_url": "https://www.arbeitnow.com/jobs/companies/dataguard/fullstack-software-engineer-munich-197283",
-      "source": "Arbeitnow API",
-      "tags": [
-        "Engineering"
-      ],
-      "posted_at": 1794670812,
-      "dedup_hash": "f53cf692ac4e954bf5837a474005e01f",
-      "role": "Full Stack",
-      "city": "Other India",
-      "job_type": "Fresher/Full-time",
-      "stipend_salary": "Not Disclosed",
-      "confidence": 0.88,
-      "tagger_used": "Heuristic Rule Engine"
-    },
-    {
-      "title": "Working Student / Intern – Industrialization Land / UGV (m/f/d)",
-      "company": "Quantum-Systems GmbH",
-      "raw_location": "Göppingen, Baden-Württemberg, Germany",
-      "description": "<p>As a Working Student or Intern (m/f/d) in the field of Land Systems / UGV Industrialization, you will support our team in Göppingen in establishing serial production for unmanned ground vehicles (UGVs). You will work closely with the Industrialization team and our external consulting partners, taking responsibility for clearly defined work packages in documentation, data management, and production planning preparation.</p><p style=\"min-height: 1.7em;\"></p><p>You will collaborate across Production, Engineering, Quality, and Logistics, gaining first-hand experience of a real production ramp-up from the very beginning and seeing how a prototype-based setup evolves into a scalable and repeatable serial production process.</p><p style=\"text-align:justify;\"><br></p><h4><strong>What is your Day to Day Mission:</strong></h4><p style=\"min-height: 1.7em;\"></p><ul><li><p>Support the shopfloor planning activities at our Göppingen site by documenting current-state processes and contributing to layout planning, material flow design, and production cycle data (e.g., cycle times, workstation utilization, and walking distances).</p></li><li><p>Support process design activities by helping to stru",
-      "apply_url": "https://www.arbeitnow.com/jobs/companies/quantum-systems-gmbh/working-student-intern-industrialization-land-ugv-goppingen-338227",
-      "source": "Arbeitnow API",
-      "tags": [
-        "Student & Early Professionals"
-      ],
-      "posted_at": 1794670302,
-      "dedup_hash": "1641856a4338c6b40b6b313b1283926e",
-      "role": "Other Tech",
-      "city": "Other India",
-      "job_type": "Internship",
-      "stipend_salary": "Not Disclosed",
-      "confidence": 0.88,
-      "tagger_used": "Heuristic Rule Engine"
-    },
-    {
-      "title": "Working Student - Returns Management (m/f/d)",
-      "company": "Quantum-Systems GmbH",
-      "raw_location": "Gilching, Bayern, Germany",
-      "description": "<p>As a Working Student in Repair &amp; Service Coordination, you will be a key part of our team to ensure smooth and efficient repair and service processes for our customers. Together with our world-class team, you will take an empowering role in supporting our operations and customer service.</p><p>You will work closely with Customer Support, Repair, and Fulfillment to coordinate repairs, system returns, and customer requests. By ensuring reliable processes and continuously improving our service quality, your mission will have a powerful impact at Quantum Systems.<br></p><h4><strong>What is your Day to Day Mission:</strong></h4><ul><li><p class=\"Paragraph SCXW178839010 BCX8\"><strong>Returns Management: </strong>&nbsp;<br>Assist the team to coordinate with the customers to return systems or subsystems for repair and maintenance.&nbsp;</p></li><li><p class=\"Paragraph SCXW178839010 BCX8\"><strong>Documentation</strong></p><p class=\"Paragraph SCXW178839010 BCX8\">Documentation and control of incoming and outgoing system configurations in existing configuration databases.&nbsp;</p></li><li><p class=\"Paragraph SCXW178839010 BCX8\"><strong>Repair Coordination: </strong>&nbsp;<br>Assist the",
-      "apply_url": "https://www.arbeitnow.com/jobs/companies/quantum-systems-gmbh/working-student-returns-management-gilching-4623",
-      "source": "Arbeitnow API",
-      "tags": [
-        "Student & Early Professionals"
-      ],
-      "posted_at": 1794670302,
-      "dedup_hash": "07edc54ec9c5d07e151de8ae13153353",
-      "role": "Other Tech",
-      "city": "Other India",
-      "job_type": "Fresher/Full-time",
-      "stipend_salary": "Not Disclosed",
-      "confidence": 0.88,
-      "tagger_used": "Heuristic Rule Engine"
-    },
-    {
-      "title": "Software Provisioning Technician (m/f/d) - UGV",
-      "company": "Quantum-Systems GmbH",
-      "raw_location": "Göppingen, Baden-Württemberg, Germany",
-      "description": "<figure><img style=\"width:899px\" src=\"https://quantum-systems.com/wp-content/uploads/2026/02/QS_Press_Word_Press_Ground_Domain.png\"></figure><p style=\"text-align:justify;min-height: 1.7em;\"></p><p>As a Software Provisioning Technician UGV (m/f/d), you will be part of our production team for unmanned ground systems at our Göppingen site and will be responsible for the software deployment, configuration, and release of Mandrill UGVs and future LAND platforms. You will ensure that every vehicle is delivered with the correct, approved software configuration, playing a key role in transforming our LAND production from prototype-based manufacturing into a robust, repeatable, and scalable serial production environment.</p><p style=\"min-height: 1.7em;\"></p><p>You will work hands-on with the vehicles while collaborating closely with Software/Firmware Engineering, Quality, Testing, and Production teams. In this role, you will follow approved work instructions, ensure full traceability of all activities, and actively contribute shop floor feedback to the continuous improvement of provisioning processes.</p><p style=\"min-height: 1.7em;\"></p><h4><strong>What is your Day to Day Mission:</strong>",
-      "apply_url": "https://www.arbeitnow.com/jobs/companies/quantum-systems-gmbh/software-provisioning-technician-ugv-goppingen-499660",
-      "source": "Arbeitnow API",
-      "tags": [
-        "Production & Automation"
-      ],
-      "posted_at": 1794670302,
-      "dedup_hash": "359439c42988d5ba5e53f056c0e26a80",
-      "role": "Other Tech",
-      "city": "Other India",
-      "job_type": "Fresher/Full-time",
-      "stipend_salary": "Not Disclosed",
-      "confidence": 0.88,
-      "tagger_used": "Heuristic Rule Engine"
-    },
-    {
       "title": "Senior Account Executive",
       "company": "Rithum",
       "raw_location": "",
@@ -8353,7 +7954,7 @@
       "title": "Head Communication Marketing international (A)",
       "company": "Homberger Personalberatung für Kommunikation",
       "raw_location": "Zürich",
-      "description": "<h2></h2><ul><li><p>Führung und Weiterentwicklung des Marketingteams</p></li><li><p>Entwicklung und Umsetzung der globalen Kommunikations- und Marketingstrategie</p></li></ul><ul><li><p>Gesamtverantwortung Corporate Communications</p></li><li><p>Weiterentwicklung Digitalmarketing (Website, Social Media)</p></li><li><p>Positionierung und Weiterentwicklung des Brands</p></li><li><p>Verantwortung für sämtliche Kampagnen, Messen, Events</p></li><li><p>Budgetverantwortung</p></li></ul><p></p><p>Ihr Profil</p><ul><li><p>Studium in Marketing oder Kommunikation</p></li><li><p>Mehrjährige Führungserfahrung im internationalen Umfeld im Industriebereich</p></li><li><p>Nachweisbare Erfolge in entsprechenden Funktionen im Bereich Marketing / Corporate Communications</p></li></ul><ul><li><p>Verhandlungssichere Deutsch- und Englischkenntnisse</p></li></ul><p></p><p>Homberger Personalberatung für Kommunikation</p><p></p><p>Find more <a href=\"https://www.arbeitnow.ch/english-speaking-jobs\">English Speaking Jobs in Switzerland</a> on Arbeitnow</a>",
+      "description": "<h2></h2><ul><li><p>Führung und Weiterentwicklung des Marketingteams</p></li><li><p>Entwicklung und Umsetzung der globalen Kommunikations- und Marketingstrategie</p></li></ul><ul><li><p>Gesamtverantwortung Corporate Communications</p></li><li><p>Weiterentwicklung Digitalmarketing (Website, Social Media)</p></li><li><p>Positionierung und Weiterentwicklung des Brands</p></li><li><p>Verantwortung für sämtliche Kampagnen, Messen, Events</p></li><li><p>Budgetverantwortung</p></li></ul><p></p><p>Ihr Profil</p><ul><li><p>Studium in Marketing oder Kommunikation</p></li><li><p>Mehrjährige Führungserfahrung im internationalen Umfeld im Industriebereich</p></li><li><p>Nachweisbare Erfolge in entsprechenden Funktionen im Bereich Marketing / Corporate Communications</p></li></ul><ul><li><p>Verhandlungssichere Deutsch- und Englischkenntnisse</p></li></ul><p></p><p>Homberger Personalberatung für Kommunikation</p><p></p><p>Find <a href=\"https://www.arbeitnow.ch\">Jobs in Switzerland</a> on Arbeitnow</a>",
       "apply_url": "https://www.arbeitnow.ch/jobs/companies/homberger-personalberatung-fur-kommunikation/head-communication-marketing-international-a-zurich-299757",
       "source": "Arbeitnow API",
       "tags": [
@@ -8438,136 +8039,6 @@
       "dedup_hash": "9c901e1194162da355ad8b29ca881963",
       "role": "Other Tech",
       "city": "Other India",
-      "job_type": "Fresher/Full-time",
-      "stipend_salary": "Not Disclosed",
-      "confidence": 0.88,
-      "tagger_used": "Heuristic Rule Engine"
-    },
-    {
-      "title": "Software Test Engineer",
-      "company": "SwissPeak Partners GmbH",
-      "raw_location": "Remote job",
-      "description": "<p style=\"text-align:start;\">Wir rekrutieren einen Software Test Engineer (m/w/d) für ein neu formiertes Team rund um ein Dynamics 365 Projekt. Das Testing wird von Grund auf neu aufgebaut, du bist also massgeblich an der Definition des Vorgehens beteiligt.</p><p style=\"text-align:start;\">Du testest im Sprint mit und verantwortest gleichzeitig die Teststrategie, das Testkonzept und die Testplanung. Du koordinierst die UAT mit dem Fachbereich und bringst Qualitätsstandards in ein Team, das seine Testing-Reife gerade aufbaut. Der Fokus liegt überwiegend auf manuellem Testing, mit der Möglichkeit, später in die Automatisierung hineinzuwachsen.</p><p style=\"min-height: 1.7em;\"></p><p style=\"text-align:start;\"><strong>Must-have Anforderungen</strong></p><ul><li><p>Mehrjährige Erfahrung im Software-Testing in agilen Umgebungen, sicher im Testfalldesign und in der Erstellung von Testkonzepten</p></li><li><p>Erfahrung mit Azure DevOps (Boards, Test Plans) oder Jira Xray</p></li><li><p>Erfahrung im Testing konfigurierter Business-Plattformen, idealerweise Dynamics 365 (CE/CRM) oder Power Platform</p></li><li><p>Sehr gutes Deutsch und fliessendes Englisch</p><p style=\"min-height: 1.7em;\"></p",
-      "apply_url": "https://www.arbeitnow.ch/jobs/companies/swisspeak-partners-gmbh/remote-software-test-engineer-bern-98324",
-      "source": "Arbeitnow API",
-      "tags": [
-        "Software Engineering",
-        "Remote"
-      ],
-      "posted_at": 1794562296,
-      "dedup_hash": "53a2a16acec38ba613110d865971327c",
-      "role": "QA & Testing",
-      "city": "Remote",
-      "job_type": "Fresher/Full-time",
-      "stipend_salary": "Not Disclosed",
-      "confidence": 0.88,
-      "tagger_used": "Heuristic Rule Engine"
-    },
-    {
-      "title": "Senior Network Engineer",
-      "company": "SwissPeak Partners GmbH",
-      "raw_location": "Zurich, Zürich, Switzerland",
-      "description": "<p style=\"text-align:start;\">Our client is an established, family-owned industrial technology company headquartered near Zurich. Its systems run at customer sites in more than 60 countries. To keep them reachable and secure, it needs someone who can build and run the networks behind them, and who is comfortable intervening and troubleshooting when a customer's connection goes down.<br></p><p style=\"text-align:start;\"><strong>What you'll do</strong></p><ul><li><p>Set up, run and troubleshoot site-to-site and remote-access VPNs to customer sites (IPsec, OpenVPN)</p></li><li><p>Configure and maintain firewalls (Fortinet, OPNsense and others)</p></li><li><p>Design and implement networks at customer sites: switching, routing, VLANs, WLAN</p></li><li><p>Find and fix network problems together with customers and colleagues around the world, remotely or on site</p></li><li><p>Install and roll out software on Windows and Linux systems</p></li><li><p>Build and maintain the internal test and lab networks</p></li><li><p>Keep network documentation clear and up to date, and help improve how the team works</p></li></ul><p style=\"min-height: 1.7em;\"></p><p style=\"min-height: 1.7em;\"></p><p style=\"m",
-      "apply_url": "https://www.arbeitnow.ch/jobs/companies/swisspeak-partners-gmbh/senior-network-engineer-zurich-212629",
-      "source": "Arbeitnow API",
-      "tags": [
-        "Infrastructure & DevOps"
-      ],
-      "posted_at": 1794562296,
-      "dedup_hash": "a371db7e6e9376b6ab69e893f164083c",
-      "role": "Other Tech",
-      "city": "Other India",
-      "job_type": "Fresher/Full-time",
-      "stipend_salary": "Not Disclosed",
-      "confidence": 0.88,
-      "tagger_used": "Heuristic Rule Engine"
-    },
-    {
-      "title": "Senior Java/Angular Engineer",
-      "company": "SwissPeak Partners GmbH",
-      "raw_location": "Zurich, Zürich, Switzerland",
-      "description": "<p>For a renowned Swiss bank in Zurich, we are looking for an experienced Java/Angular engineer. In a newly built DevOps team you help develop the new platform for digital onboarding and product opening and run its services. </p><h3>Your tasks</h3><ol><li><p>Build, develop and operate services in the DevOps team</p></li><li><p>Verify solutions against internal and external security standards</p></li><li><p>Improve operating processes and contribute to service design and architecture</p></li><li><p>Advise the business on feasibility and options, working closely with the product owner, business engineers and architecture</p></li><li><p>Depending on the position, introduce Camunda 8 and enable the team</p></li></ol><h3>Your profile</h3><ol><li><p>German at C1 level or higher, the project language is German. Understanding of Swiss German is expected. English at B2 level</p></li><li><p>Experience in client onboarding, digital product closings or client lifecycle management in finance within the last three years</p></li><li><p>Very good Java and Angular skills with Spring, JPA/Hibernate, Maven and SQL with PostgreSQL</p></li><li><p>Experience with Scrum or Kanban and a DevOps mindset</p>",
-      "apply_url": "https://www.arbeitnow.ch/jobs/companies/swisspeak-partners-gmbh/senior-java-angular-engineer-zurich-324300",
-      "source": "Arbeitnow API",
-      "tags": [],
-      "posted_at": 1794562296,
-      "dedup_hash": "dab2f454dbc692d9dcf56b4c455fbb06",
-      "role": "Frontend",
-      "city": "Other India",
-      "job_type": "Fresher/Full-time",
-      "stipend_salary": "Not Disclosed",
-      "confidence": 0.88,
-      "tagger_used": "Heuristic Rule Engine"
-    },
-    {
-      "title": "Solution Architect",
-      "company": "SwissPeak Partners GmbH",
-      "raw_location": "Zurich, Zürich, Switzerland",
-      "description": "<p>For a renowned Swiss bank in Zurich, we are looking for an experienced solution architect for new platforms in digital onboarding, sales and core banking. You ensure scalability, security and performance, and advise the business, product owners, development and infrastructure.</p><h3>Your tasks</h3><ol><li><p>Develop, document and communicate solution architectures aligned with the system landscape, standards and target pictures</p></li><li><p>Maintain architecture artefacts and IT system design, prepare architecture decisions</p></li><li><p>Ensure scalability, security, performance and maintainability of the solution</p></li><li><p>Review concepts and implementations</p></li><li><p>Depending on the initiative, establish an orchestration platform such as Camunda or Flowable, or integrate purchased software including infrastructure and network</p></li></ol><h3>Your profile</h3><ol><li><p>German at C1 level or higher, the project language is German. Understanding of Swiss German is expected. English at B2 level</p></li><li><p>At least eight years of experience as an architect, degree in computer science or business informatics</p></li><li><p>Software architecture of internet-facin",
-      "apply_url": "https://www.arbeitnow.ch/jobs/companies/swisspeak-partners-gmbh/solution-architect-zurich-375377",
-      "source": "Arbeitnow API",
-      "tags": [],
-      "posted_at": 1794562296,
-      "dedup_hash": "392b99aa8f6459fc2af28ff42d1d917d",
-      "role": "Other Tech",
-      "city": "Other India",
-      "job_type": "Fresher/Full-time",
-      "stipend_salary": "Not Disclosed",
-      "confidence": 0.88,
-      "tagger_used": "Heuristic Rule Engine"
-    },
-    {
-      "title": "Mitarbeiter/in Konstruktion und Arbeitsvorbereitung",
-      "company": "two.jobs",
-      "raw_location": "Buchrain",
-      "description": "<p>Für unseren Kunden <strong>wirth+co ag </strong>suchen wir eine/n <strong>Mitarbeiter/in Konstruktion und Arbeitsvorbereitung</strong></p><p>WIRTH ist ein erfolgreiches, zukunftsorientiertes Industrieunternehmen mit rund 180 Mitarbeitern. Unser Kerngeschäft sind die industrielle Blechverarbeitung, die Oberflächenbeschichtung und die Baugruppenmontage. Als reiner Lohnbetrieb gehören wir zu den führenden Anbietern in der Schweiz. Wir bieten interessante und abwechslungsreiche Tätigkeiten, flexible Arbeitszeiten, ein familiäres Umfeld und fördern die Weiterentwicklung unserer Mitarbeitenden.</p><h2>Aufgaben</h2><ul><li><p>Fertigungsgerechte Aufbereitung von Kundendaten unter Einhaltung von vorgegebenen Bedingungen (Termin, Zeitaufwand, Kosten, ...)</p></li><li><p>Konstruieren von Einzelteilen und Baugruppen auf SolidWorks</p></li><li><p>Konstruieren von Vorrichtungen und Lehren für die interne Fertigung</p></li><li><p>Machbarkeitsabklärungen und Optimierungen in Zusammenarbeit mit dem Kunden</p></li><li><p>Erarbeiten von technischen Lösungen zu Kundenanfragen für den Vertrieb</p></li><li><p>Erstellen der Datenpakete für die Produktion, insbesondere Arbeitspläne, Stücklisten und NC-",
-      "apply_url": "https://www.arbeitnow.ch/jobs/companies/twojobs/mitarbeiter-in-konstruktion-und-arbeitsvorbereitung-buchrain-275890",
-      "source": "Arbeitnow API",
-      "tags": [
-        "Development"
-      ],
-      "posted_at": 1794558649,
-      "dedup_hash": "f6291556571c115ecf82b2ae644bdc5c",
-      "role": "Other Tech",
-      "city": "Other India",
-      "job_type": "Fresher/Full-time",
-      "stipend_salary": "Not Disclosed",
-      "confidence": 0.88,
-      "tagger_used": "Heuristic Rule Engine"
-    },
-    {
-      "title": "Director of Sales, RM, Switzerland",
-      "company": "Sothebys",
-      "raw_location": "Zürich",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;ABOUT SOTHEBY&#39;S&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Established in 1744, Sotheby’s promotes access and ownership of exceptional art and luxury objects through auctions, private sales and retail. Our deep expertise across 70 selling categories is supported by a leading technology platform and a global network of specialists spanning 40 countries. Selling categories include Contemporary Art, Modern and Impressionist Art, Old Masters, Chinese Works of Art, Jewelry, Watches, Wine and Spirits and Design, as well as collectible cars and real estate through RM Sotheby’s and Concierge. Sotheby’s Financial Services is a leading art lender and provides capital solutions for collectors around the world, having originated more than $12 billion in loans since its inception. Sotheby’s new global headquarters is now open at the iconic Breuer building at 945 Madison Avenue in New York City.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;ABOUT RM SOTHEBY’S&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;RM Sotheby’s is the world&#39;s leading collector car auction house, specializing in the sale of the world&#39;s most exceptional automobiles. With",
-      "apply_url": "https://www.arbeitnow.ch/jobs/companies/sothebys/director-of-sales-rm-switzerland-zurich-118921",
-      "source": "Arbeitnow API",
-      "tags": [
-        "RM Sotheby’s"
-      ],
-      "posted_at": 1794552914,
-      "dedup_hash": "49ceb64124f6726a7273690cc76bcb0a",
-      "role": "Other Tech",
-      "city": "Other India",
-      "job_type": "Fresher/Full-time",
-      "stipend_salary": "Not Disclosed",
-      "confidence": 0.88,
-      "tagger_used": "Heuristic Rule Engine"
-    },
-    {
-      "title": "Fullstack Web Developer",
-      "company": "Auterion",
-      "raw_location": "Zurich",
-      "description": "&lt;p&gt;&lt;strong&gt;Overview&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;We are looking for a hands-on Fullstack Web Developer to join our Web Apps team, in our Zürich office. In this role you will have the opportunity to drive development of new features, have a say in architecture and design decisions and have real impact across all the team’s projects.&lt;/p&gt;\n&lt;p&gt;The web apps team plays a central role at Auterion and owns the systems that add connectivity and remote interfaces for fleet management and operations. Our services are responsible for ingesting and analyzing flight telemetry data, managing and updating the fleet as well as integrating with other systems across the stack.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;The ideal candidate is someone who’s a self-starter, can work independently, can work with ambiguity, can take decisions on their own and not be afraid to drive and push towards getting the project across the finish line.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Responsibilities and Duties&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Take ownership and drive the development of new features across all the team’s web based projects&lt;/li&gt;\n&lt;li&gt;Deliver clean, readable and ",
-      "apply_url": "https://www.arbeitnow.ch/jobs/companies/auterion/fullstack-web-developer-zurich-374360",
-      "source": "Arbeitnow API",
-      "tags": [
-        "Engineering"
-      ],
-      "posted_at": 1794531316,
-      "dedup_hash": "6f69e63c9fd4197523b2264694d4edf3",
-      "role": "Frontend",
-      "city": "Remote",
       "job_type": "Fresher/Full-time",
       "stipend_salary": "Not Disclosed",
       "confidence": 0.88,
@@ -9145,17 +8616,74 @@
       "tagger_used": "Heuristic Rule Engine"
     },
     {
-      "title": "Internship - Finance (Dec/Jan start, 6 months)",
-      "company": "Axelera AI",
-      "raw_location": "Eindhoven (hybrid)",
-      "description": "<p style=\"min-height:1.5em\">Axelera AI is a fast-growing European AI hardware scale-up building high-performance, energy-efficient AI acceleration for the edge. We are looking for a hands-on Finance Intern to join our team for 5-6 months, starting December 2026 or early January 2027.</p><p style=\"min-height:1.5em\">You will join at one of the busiest and most interesting moments of the financial year: the year-end close and the FY2026 external audit. You will work directly with our VP Finance and Finance Managers on real day-to-day finance operations, not side projects. You will learn how a high-growth tech company runs its accounts payable, accounts receivable, reconciliations and audit, and get exposure to investor and board reporting.</p><p style=\"min-height:1.5em\"><strong>Location:</strong> Eindhoven (hybrid, 2 office days per week minimum)</p><p style=\"min-height:1.5em\"><strong>Start date:</strong> December 2026 or early January 2027</p><p style=\"min-height:1.5em\"><strong>Duration:</strong> 5-6 months</p><p style=\"min-height:1.5em\"><strong>Hours:</strong> Minimum 4 days per week; full-time preferred</p><p style=\"min-height:1.5em\"></p><h2><strong>What you'll do:</strong></h2><ul",
-      "apply_url": "https://www.arbeitnow.nl/jobs/companies/axelera-ai/internship-finance-dec-jan-start-6-months-eindhoven-462541",
+      "title": "IT Administrator - (Senior) IT Administrator",
+      "company": "Apex Ai",
+      "raw_location": "Munich",
+      "description": "<div>\n<p><span data-contrast=\"auto\">Apex.AI is an international software company developing safety-certified, developer-friendly, and scalable software for mobility and autonomous systems. Our technology enables companies to build software-defined vehicles and intelligent machines faster, safer, and more efficiently.</span><span data-ccp-props=\"{&quot;134233117&quot;:false,&quot;134233118&quot;:false,&quot;335559738&quot;:240,&quot;335559739&quot;:240}\">&nbsp;</span></p>\n</div>\n<div>\n<p><span data-contrast=\"auto\">We are looking for a </span><span data-contrast=\"auto\">hands-on <strong>IT Administrator / (Senior) IT Administrator</strong></span><span data-contrast=\"auto\"><strong> </strong>to take ownership of the day-to-day operation and continuous improvement of our IT environment in Germany while supporting our international teams.</span><span data-ccp-props=\"{&quot;134233117&quot;:false,&quot;134233118&quot;:false,&quot;335559738&quot;:240,&quot;335559739&quot;:240}\">&nbsp;</span></p>\n</div>\n<div>\n<p><span data-contrast=\"auto\">This is a highly practical role for someone who enjoys solving technical problems, administering systems, supporting users, and continuously improving IT in",
+      "apply_url": "https://www.arbeitnow.com/jobs/companies/apex-ai/it-administrator-senior-it-administrator-munich-16121",
       "source": "Arbeitnow API",
       "tags": [
-        "Corporate Functions"
+        "IT"
       ],
-      "posted_at": 1794487232,
-      "dedup_hash": "cac6d3165403c8ea50bbdfde01a52839",
+      "posted_at": 1794691598,
+      "dedup_hash": "63d4fdb180a205d7c8419dc0b03d46b2",
+      "role": "Other Tech",
+      "city": "Other India",
+      "job_type": "Fresher/Full-time",
+      "stipend_salary": "Not Disclosed",
+      "confidence": 0.88,
+      "tagger_used": "Heuristic Rule Engine"
+    },
+    {
+      "title": "Senior Software Engineer - Data & AI Platform (m/w/d)",
+      "company": "Vivenu",
+      "raw_location": "Düsseldorf",
+      "description": "<div><span style=\"font-size: 18px\"><b>Redefine the future of live entertainment tech</b></span></div><div><br></div><div>Welcome to vivenu, the global leader in event ticketing tech and one of the world’s fastest-growing live entertainment tech firms. We are transforming event ticketing for global leaders like the Grammys, the Golden Globes, Stanford University and the Hockenheimring turning what was once a simple transaction into a strategic business advantage. Backed by over $65 million in funding, our platform empowers event organizers to own their brand experience, unlock deep data insights, and seamlessly integrate ticketing into their digital infrastructure.</div><div><br></div><div>With six offices worldwide and growing, we deliver a customizable, intuitive solution and industry-leading support that simplify even the most complex ticketing challenges –&nbsp;helping organizers deliver exceptional experiences and drive real growth.</div><div><br></div><div>Join us and build the future of live entertainment.</div><div><br></div><div>\n<div>With&nbsp;over <strong>10 million end users</strong>&nbsp;and usage quadrupling annually, our infrastructure now handles&nbsp;<strong>over 1 ",
+      "apply_url": "https://www.arbeitnow.com/jobs/companies/vivenu/senior-software-engineer-data-ai-platform-dusseldorf-101649",
+      "source": "Arbeitnow API",
+      "tags": [
+        "Product & Development"
+      ],
+      "posted_at": 1794691598,
+      "dedup_hash": "68779a6504603f0f21ed6b6e1a683aea",
+      "role": "AI/ML",
+      "city": "Other India",
+      "job_type": "Fresher/Full-time",
+      "stipend_salary": "Not Disclosed",
+      "confidence": 0.88,
+      "tagger_used": "Heuristic Rule Engine"
+    },
+    {
+      "title": "Senior Security Engineer - AppSec (d/f/m)",
+      "company": "Vivenu",
+      "raw_location": "Remote Germany",
+      "description": "<div><span style=\"font-size: 18px\"><b>Redefine the future of live entertainment tech</b></span></div><div><br></div><div>Welcome to vivenu, the global leader in event ticketing tech and one of the world’s fastest-growing live entertainment tech firms. We are transforming event ticketing for global leaders like the Grammys, the Golden Globes, Stanford University and the Hockenheimring turning what was once a simple transaction into a strategic business advantage. Backed by over $65 million in funding, our platform empowers event organizers to own their brand experience, unlock deep data insights, and seamlessly integrate ticketing into their digital infrastructure.</div><div><br></div><div>With six offices worldwide and growing, we deliver a customizable, intuitive solution and industry-leading support that simplify even the most complex ticketing challenges –&nbsp;helping organizers deliver exceptional experiences and drive real growth.</div><div><br></div><div>Join us and build the future of live entertainment.</div><div><br></div><div><span style=\"font-size: 15px;\">With&nbsp;</span><strong style=\"font-size: 15px;\">over 10 million end users</strong><span style=\"font-size: 15px;\">&",
+      "apply_url": "https://www.arbeitnow.com/jobs/companies/vivenu/remote-senior-security-engineer-appsec-40606",
+      "source": "Arbeitnow API",
+      "tags": [
+        "Product & Development"
+      ],
+      "posted_at": 1794691598,
+      "dedup_hash": "cd83f06f4fd71851871684626cc9f4d8",
+      "role": "Other Tech",
+      "city": "Remote",
+      "job_type": "Fresher/Full-time",
+      "stipend_salary": "Not Disclosed",
+      "confidence": 0.88,
+      "tagger_used": "Heuristic Rule Engine"
+    },
+    {
+      "title": "Go-To-Market & Growth Intern (d/f/m)",
+      "company": "Vivenu",
+      "raw_location": "Düsseldorf",
+      "description": "<div><b><span style=\"font-size: 18px\">Gestalte die Zukunft von Live-Entertainment-Tech</span></b></div><div><br></div><div>Willkommen bei vivenu – dem globalen Vorreiter für Event-Ticketing-Technologie und einem der weltweit schnellst wachsenden Tech-Unternehmen im Live-Entertainment. Wir revolutionieren  Ticketing für internationale Größen wie die Grammys, die Golden Globes, die Stanford University und den Hockenheimring – und machen aus einer einfachen Ticketing-Transaktion einen echten strategischen Wettbewerbsvorteil. Mit über 65 Millionen US-Dollar an Finanzierung im Rücken ermöglicht unsere Plattform Veranstaltern, ihre Markenpräsenz selbst zu steuern, tiefgreifende Datenanalysen zu nutzen und Ticketing nahtlos in ihre digitale Infrastruktur zu integrieren.</div><div><br></div><div>Mit sechs Standorten weltweit bieten wir eine intuitive, individuell anpassbare Lösung und branchenführenden Support, der selbst die komplexesten Herausforderungen im Ticketing vereinfacht. So helfen wir Veranstaltern, außergewöhnliche Erlebnisse zu schaffen und nachhaltiges Wachstum zu erzielen.</div><div><br></div><div>Werde Teil unserer Mission – und gestalte die Zukunft von Live-Entertainment m",
+      "apply_url": "https://www.arbeitnow.com/jobs/companies/vivenu/go-to-market-growth-intern-dusseldorf-11744",
+      "source": "Arbeitnow API",
+      "tags": [
+        "Operations"
+      ],
+      "posted_at": 1794691598,
+      "dedup_hash": "9cc8fec378ed38e10856394b8ed64f78",
       "role": "Other Tech",
       "city": "Other India",
       "job_type": "Internship",
@@ -9164,19 +8692,323 @@
       "tagger_used": "Heuristic Rule Engine"
     },
     {
-      "title": "Regional Sales Director, NEUR",
-      "company": "Horizon3Ai",
-      "raw_location": "Amsterdam, Netherlands",
-      "description": "<p style=\"min-height:1.5em\"><strong>Get to Know Us</strong></p><p style=\"min-height:1.5em\">Horizon3 is a fast-growing, remote cybersecurity company dedicated to the mission of enabling organizations to proactively find and fix and verify exploitable attack vectors before criminals exploit them. Our flagship product, the NodeZeroTM platform, delivers production-safe autonomous pentests and other key assessment operations that scale across the largest internal, external, cloud, and hybrid cloud environments. NodeZero has been adopted by organizations of all sizes, from small educational institutions to government agencies and Global 100 enterprises. It is used by ITOps/SecOps teams, consulting pentesters, and MSSPs and MSPs. </p><p style=\"min-height:1.5em\">We are a fusion of former U.S. Special Operations cyber operators, startup engineers, and formerly frustrated cybersecurity practitioners. We're committed to helping solve our common security problems: ineffective security tools, false positives resulting in alert fatigue, blind spots, \"checkbox” security culture, cybersecurity skills shortage, and the long lead time and expense of hiring outside consultants. Collectively, we are a",
-      "apply_url": "https://www.arbeitnow.nl/jobs/companies/horizon3ai/regional-sales-director-neur-amsterdam-218233",
+      "title": "Software Engineer, Data",
+      "company": "engelhart",
+      "raw_location": "Berlin",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h2&gt;&lt;strong&gt;About Us&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;Engelhart was founded in 2013 by BTG Pactual Group as a commodities trading company. Our business model is “asset light” and highly diversified – giving us the ability to adapt effectively and nimbly to changing market conditions. We have assembled successful multidisciplinary teams, leveraging advanced fundamental analysis with deep quantitative and weather research capabilities.&amp;nbsp; Our activities are underpinned by strong risk management practices and by powerful technology and operational excellence. We have exceptional teams with diverse global backgrounds and decades of experience, and are driven by a highly collaborative culture, across products and competencies.&lt;/p&gt;\n&lt;p&gt;In 2024, Engelhart acquired Trailstone, a global energy trading and technology company. The acquisition provides us with new expertise, analytics and proprietary technology which is being used to provide risk management and optimisation services to help maximise the value of our clients’ renewable power. The acquisition also expanded Engelhart’s capabilities into physical natural ga",
+      "apply_url": "https://www.arbeitnow.com/jobs/companies/engelhart/software-engineer-data-berlin-351586",
       "source": "Arbeitnow API",
       "tags": [
-        "Sales"
+        "Technology"
       ],
-      "posted_at": 1794487231,
-      "dedup_hash": "674c050d51989184a3c01b2aeb748a23",
+      "posted_at": 1794682518,
+      "dedup_hash": "064022c6c6f12c1e19150bc968385b21",
+      "role": "Backend",
+      "city": "Other India",
+      "job_type": "Fresher/Full-time",
+      "stipend_salary": "Not Disclosed",
+      "confidence": 0.88,
+      "tagger_used": "Heuristic Rule Engine"
+    },
+    {
+      "title": "Operations & Strategy Manager - Energy Markets",
+      "company": "trawa",
+      "raw_location": "Berlin HQ",
+      "description": "<h1>Operations &amp; Strategy Manager</h1><p style=\"min-height:1.5em\">Permanent employee · Full-time · Berlin (HQ)</p><div style=\"min-height:1.2em;margin-top:0px;margin-bottom:0px\"> </div><h2>Our mission for you</h2><p style=\"min-height:1.5em\">European energy costs are twice as high as in the US and China, and electricity demand is expected to double by 2050. This puts European industry under massive cost pressure – and companies need to act now.</p><p style=\"min-height:1.5em\">trawa is building the solution: the first integrated B2B energy platform that brings together energy procurement, energy management and the marketing of flexible assets in one product. This helps companies save up to 30% on their recurring electricity costs while switching to renewable energy.</p><p style=\"min-height:1.5em\">We're the fastest-growing B2B energy platform in Europe. Active in Germany and Austria now, and expanding operations to a third market in 2027. We're on the road to European scale and move fast – the market window is open and we intend to own it.</p><p style=\"min-height:1.5em\">Now we are looking for an Operations &amp; Strategy Manager to own a business-critical part of our energy value ch",
+      "apply_url": "https://www.arbeitnow.com/jobs/companies/trawa/operations-strategy-manager-energy-markets-berlin-346294",
+      "source": "Arbeitnow API",
+      "tags": [
+        "Energy Operations"
+      ],
+      "posted_at": 1794681612,
+      "dedup_hash": "920bf188a9417a52621a9b8f62b27c9f",
+      "role": "Other Tech",
+      "city": "Other India",
+      "job_type": "Fresher/Full-time",
+      "stipend_salary": "Not Disclosed",
+      "confidence": 0.88,
+      "tagger_used": "Heuristic Rule Engine"
+    },
+    {
+      "title": "Portfolio Accountant",
+      "company": "Access Destination Services",
+      "raw_location": "Remote",
+      "description": "<p style=\"min-height:1.5em\"><strong>Access Your Potential.</strong><br />Join us to create and deliver experiences that inspire people, spark connection, and bring imagination to life—while having a lot of fun doing it.</p><p style=\"min-height:1.5em\"></p><h2>About the Job</h2><p style=\"min-height:1.5em\">We’re seeking a detail-oriented and organized <strong>Portfolio Accountant</strong> to join our Finance &amp; Accounting team! In this role, you’ll manage the day-to-day accounting operations for an assigned Access territory, ensuring accurate financial records, timely reporting, and effective financial support for territory operations.</p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\">Working closely with territory leadership and the broader Finance &amp; Accounting team, you’ll oversee accounts payable, accounts receivable, general ledger transactions, month-end closing activities, and financial reporting. This is a great opportunity for someone who enjoys working independently, solving problems, and building strong relationships with internal teams while keeping financial operations running smoothly.</p><p style=\"min-height:1.5em\"></p><h2>What You'll Be Doing</h2><p ",
+      "apply_url": "https://www.arbeitnow.com/jobs/companies/access-destination-services/remote-portfolio-accountant-384566",
+      "source": "Arbeitnow API",
+      "tags": [
+        "Corporate Services Group"
+      ],
+      "posted_at": 1794681612,
+      "dedup_hash": "ee508d0a927afbbe3cb8d2814878497f",
       "role": "Other Tech",
       "city": "Remote",
+      "job_type": "Fresher/Full-time",
+      "stipend_salary": "Not Disclosed",
+      "confidence": 0.88,
+      "tagger_used": "Heuristic Rule Engine"
+    },
+    {
+      "title": "Events Auditor Associate",
+      "company": "Access Destination Services",
+      "raw_location": "Remote",
+      "description": "<p style=\"min-height:1.5em\"><strong>Access Your Potential.</strong><br />Join us to create and deliver experiences that inspire people, spark connection, and bring imagination to life—while having a lot of fun doing it.</p><p style=\"min-height:1.5em\"></p><h2>About the Job</h2><p style=\"min-height:1.5em\">We're seeking a detail-oriented and organized <strong>Events Auditing Associate</strong> to join our Finance &amp; Accounting team! In this role, you'll support the billing and financial closeout process for familiarization (FAM) programs, as well as supplier referral invoicing. You'll also work closely with territory Events Auditors to prepare billing documentation, review program financials, and ensure accurate and timely program closeouts.</p><p style=\"min-height:1.5em\">The ideal candidate enjoys working with numbers, has a strong attention to detail, and is comfortable managing multiple priorities. You'll collaborate with Event Managers, Sales Managers, Accounting, and other internal teams to track outstanding items, resolve discrepancies, and keep program financial records organized and up to date.</p><p style=\"min-height:1.5em\"></p><h2>What You'll Be Doing</h2><p style=\"min-he",
+      "apply_url": "https://www.arbeitnow.com/jobs/companies/access-destination-services/remote-events-auditor-associate-460273",
+      "source": "Arbeitnow API",
+      "tags": [
+        "Corporate Services Group"
+      ],
+      "posted_at": 1794681612,
+      "dedup_hash": "747fdc6aab8650012c7b24aefc7eb1a8",
+      "role": "Other Tech",
+      "city": "Remote",
+      "job_type": "Fresher/Full-time",
+      "stipend_salary": "Not Disclosed",
+      "confidence": 0.88,
+      "tagger_used": "Heuristic Rule Engine"
+    },
+    {
+      "title": "Staff Frontend Engineer (f/m/d)",
+      "company": "bunch",
+      "raw_location": "Berlin",
+      "description": "<p style=\"min-height:1.5em\"><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.bunch.capital/\"><u>bunch</u></a> is building the backbone of private markets. We are enabling next-gen fund operations with one integrated system that combines secure data infrastructure, AI-powered workflows and expert fund services. If you value ownership, growth through real responsibility, and working with a thoughtful, ambitious team, this role might be for you.</p><h1><strong><br />Your Role</strong></h1><p style=\"min-height:1.5em\">As a Staff Frontend Engineer at bunch, you will shape the architecture, quality, and developer experience of the product surfaces our customers and internal teams rely on every day. You will work across product teams to make our frontend systems scalable, reliable, accessible, and fast — while helping engineers ship with clarity and confidence.</p><p style=\"min-height:1.5em\">This is not only a delivery role. Your decisions will influence how frontend engineering at bunch evolves: the standards we adopt, the patterns we reuse, the quality bar we hold, and the way product, design, and engineering collaborate to build excellent user experiences.</p><p s",
+      "apply_url": "https://www.arbeitnow.com/jobs/companies/bunch/staff-frontend-engineer-berlin-95913",
+      "source": "Arbeitnow API",
+      "tags": [
+        "Tech"
+      ],
+      "posted_at": 1794681612,
+      "dedup_hash": "882354ff89df064ae89b542d0242af69",
+      "role": "Frontend",
+      "city": "Other India",
+      "job_type": "Fresher/Full-time",
+      "stipend_salary": "Not Disclosed",
+      "confidence": 0.88,
+      "tagger_used": "Heuristic Rule Engine"
+    },
+    {
+      "title": "Tax & Accounting Operations Assistant (f/m/d)",
+      "company": "bunch",
+      "raw_location": "Berlin",
+      "description": "<p style=\"min-height:1.5em\"><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.bunch.capital/\"><u>bunch</u></a> is building the backbone of private markets. We are enabling next-gen fund operations with one integrated system that combines secure data infrastructure, AI-powered workflows and expert fund services. If you value ownership, growth through real responsibility, and working with a thoughtful, ambitious team, this role might be for you.</p><h2><br /><strong>Your Role</strong></h2><p style=\"min-height:1.5em\">As a <strong>Tax &amp; Accounting Operations Assistant</strong>, you will support the day-to-day operations of our Tax &amp; Accounting teams and help ensure that our processes run reliably and efficiently.</p><p style=\"min-height:1.5em\">You will:</p><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Coordinate recurring tax and accounting workflows, keeping track of deadlines, tasks and open items</p></li><li><p style=\"min-height:1.5em\">Maintain client, engagement and process data across our operational systems</p></li><li><p style=\"min-height:1.5em\">Manage incoming correspondence and documentation, including communication with tax authori",
+      "apply_url": "https://www.arbeitnow.com/jobs/companies/bunch/tax-accounting-operations-assistant-berlin-15898",
+      "source": "Arbeitnow API",
+      "tags": [
+        "Delivery"
+      ],
+      "posted_at": 1794681612,
+      "dedup_hash": "d6e6f4efc797f9c9eee43ac97f40708b",
+      "role": "Other Tech",
+      "city": "Other India",
+      "job_type": "Fresher/Full-time",
+      "stipend_salary": "Not Disclosed",
+      "confidence": 0.88,
+      "tagger_used": "Heuristic Rule Engine"
+    },
+    {
+      "title": "Account Executive | Fund Administration | VC | DE (f/m/d)",
+      "company": "bunch",
+      "raw_location": "Germany",
+      "description": "<p style=\"min-height:1.5em\"><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.bunch.capital/\"><u>bunch</u></a> is building the backbone of private markets. We are enabling next-gen fund operations with one integrated system that combines secure data infrastructure, AI-powered workflows and expert fund services. If you value ownership, growth through real responsibility, and working with a thoughtful, ambitious team, this role might be for you.</p><p style=\"min-height:1.5em\"></p><h1><strong>Your Role</strong></h1><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">This role is key to supporting bunch's growth going forward. You will establish and execute our commercial strategy with Enterprise customers, including larger VC funds, leading to bunch becoming the industry standard for private market investments.</p></li><li><p style=\"min-height:1.5em\">A successful hire will contribute to setting our Commercial strategy at pace. You will play a key role in building further market knowledge and relations with potential VC customers, supporting bunch during a pivotal time.</p><p style=\"min-height:1.5em\"></p></li></ul><h1><strong>Top responsibilities</strong>",
+      "apply_url": "https://www.arbeitnow.com/jobs/companies/bunch/account-executive-fund-administration-vc-de-germany-282690",
+      "source": "Arbeitnow API",
+      "tags": [
+        "Commercial"
+      ],
+      "posted_at": 1794681612,
+      "dedup_hash": "83fcfee20998762a80018a101a127f72",
+      "role": "Other Tech",
+      "city": "Other India",
+      "job_type": "Fresher/Full-time",
+      "stipend_salary": "Not Disclosed",
+      "confidence": 0.88,
+      "tagger_used": "Heuristic Rule Engine"
+    },
+    {
+      "title": "(Senior) Account Executive | Fund Administration | VC | DE (f/m/d)",
+      "company": "bunch",
+      "raw_location": "Germany",
+      "description": "<p style=\"min-height:1.5em\"><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.bunch.capital/\"><u>bunch</u></a> is building the backbone of private markets. We are enabling next-gen fund operations with one integrated system that combines secure data infrastructure, AI-powered workflows and expert fund services. If you value ownership, growth through real responsibility, and working with a thoughtful, ambitious team, this role might be for you.</p><p style=\"min-height:1.5em\"></p><h1><strong>Your Role</strong></h1><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">This role is key to supporting bunch's growth going forward. You will establish and execute our commercial strategy with Enterprise customers, including larger VC funds, leading to bunch becoming the industry standard for private market investments.</p></li><li><p style=\"min-height:1.5em\">A successful hire will contribute to setting our Commercial strategy at pace. You will play a key role in building further market knowledge and relations with potential VC customers, supporting bunch during a pivotal time.</p><p style=\"min-height:1.5em\"></p></li></ul><h1><strong>Top responsibilities</strong>",
+      "apply_url": "https://www.arbeitnow.com/jobs/companies/bunch/senior-account-executive-fund-administration-vc-de-germany-326789",
+      "source": "Arbeitnow API",
+      "tags": [
+        "Commercial"
+      ],
+      "posted_at": 1794681612,
+      "dedup_hash": "767ac6436f16d3cf9fe9eee8cff7a54c",
+      "role": "Other Tech",
+      "city": "Other India",
+      "job_type": "Fresher/Full-time",
+      "stipend_salary": "Not Disclosed",
+      "confidence": 0.88,
+      "tagger_used": "Heuristic Rule Engine"
+    },
+    {
+      "title": "Chief of Staff – Corporate Affairs (f/m/d)",
+      "company": "Focused",
+      "raw_location": "Darmstadt, DE",
+      "description": "<h1>About Focused Energy</h1><p style=\"min-height:1.5em\">Focused Energy is building the future of clean energy through laser-driven inertial fusion. Backed by our $240M Series A, the largest fully secured Series A in the global fusion industry, we are scaling rapidly across multiple geographies.</p><p style=\"min-height:1.5em\">Based in Germany and the US, we have brought together the top scientific and engineering minds using proven technologies to unlock fusion power at commercial scale. Focused Energy is working to realize game-changing scientific innovation that promises to deliver a clean, sustainable and abundant source of power globally.</p><p style=\"min-height:1.5em\"></p><h2>Your Role</h2><p style=\"min-height:1.5em\">We are looking for a Chief of Staff – Corporate Affairs (f/m/d): the first point of contact and the engine room of our Corporate Affairs unit. You will report directly to our Chief Corporate Affairs Officer (CCAO) and run the day-to-day work that keeps a growing, cross-border agenda coherent and moving. This frees the CCAO to focus on relationships and strategy.</p><p style=\"min-height:1.5em\">You will own ambiguous, cross-functional execution independently. Strate",
+      "apply_url": "https://www.arbeitnow.com/jobs/companies/focused/chief-of-staff-corporate-affairs-darmstadt-331143",
+      "source": "Arbeitnow API",
+      "tags": [
+        "Corporate Affairs"
+      ],
+      "posted_at": 1794681612,
+      "dedup_hash": "42ae561620c99a9b5b11bc0e99c9f6b8",
+      "role": "Other Tech",
+      "city": "Other India",
+      "job_type": "Fresher/Full-time",
+      "stipend_salary": "Not Disclosed",
+      "confidence": 0.88,
+      "tagger_used": "Heuristic Rule Engine"
+    },
+    {
+      "title": "Facilities Architect (f/m/d)",
+      "company": "Focused",
+      "raw_location": "Biblis, DE",
+      "description": "<h1>About Focused Energy</h1><p style=\"min-height:1.5em\">Focused Energy is building the future of clean energy through laser-driven inertial fusion. Backed by our $240M Series A - the largest fully secured Series A in the global fusion industry  we are scaling rapidly across multiple geographies. </p><p style=\"min-height:1.5em\">Based in Germany and the US, we have brought together the top scientific and engineering minds using proven technologies to unlock fusion power at commercial scale. Focused Energy is working to realize game-changing scientific innovation that promises to deliver a clean, sustainable and abundant source of power globally.</p><p style=\"min-height:1.5em\"></p><h1>Your Role</h1><p style=\"min-height:1.5em\">Focused Energy is developing its flagship fusion facility at Biblis, Germany and this role sits at the heart of making it happen. As Facility Development Lead, you’ll own the integrated development plan for Focused Energy’s Biblis facility. You’ll translate technical requirements into coordinated facility, utility, planning, and permitting workstreams, aligning engineering teams with RWE/Biblis stakeholders and external design partners. You’ll drive priorities, ",
+      "apply_url": "https://www.arbeitnow.com/jobs/companies/focused/facilities-architect-biblis-131424",
+      "source": "Arbeitnow API",
+      "tags": [
+        "Engineering"
+      ],
+      "posted_at": 1794681612,
+      "dedup_hash": "738a9b2e51f61de6d2eaeb81b12a24cf",
+      "role": "Other Tech",
+      "city": "Other India",
+      "job_type": "Fresher/Full-time",
+      "stipend_salary": "Not Disclosed",
+      "confidence": 0.88,
+      "tagger_used": "Heuristic Rule Engine"
+    },
+    {
+      "title": "Leiter Technische Entwicklung (m/w/d)",
+      "company": "Monika Moser, Executive Search",
+      "raw_location": "Hörselberg-Hainich",
+      "description": "<p>Gesucht wird keine Führungskraft, die Technik nur noch aus Präsentationen kennt, sondern ein Ingenieur, der selbst an Lösungen mitarbeitet. Sie verstehen die Prozesse, führen ein kleines Team und treiben Verbesserungen gemeinsam mit ihm voran. Sie berichten direkt an den Betriebsleiter und übernehmen seine Vertretung. So sitzen Sie nah an den Entscheidungen, ohne den Bezug zur praktischen Ingenieurarbeit zu verlieren.</p><h2>Ihre Aufgaben:</h2><ul><li><p>Teamführung: Sie leiten ein interdisziplinäres Team aus Mechanik, Elektrotechnik und IT und sorgen dafür, dass alle an einem Strang ziehen, auch wenn jede Disziplin eine eigene Vorstellung davon hat, wo das Problem liegt.</p></li><li><p>Anlagen weiterentwickeln: Sie entwickeln bestehende Maschinen und Anlagen technisch weiter und bringen Ihr Wissen in Automatisierungstechnik und SPS-Programmierung selbst ein, nicht nur in der Planung, sondern auch direkt an der Steuerung.</p></li><li><p>Prozesse optimieren: Sie erarbeiten Lösungen für mehr Anlagenverfügbarkeit, höheren Durchsatz, bessere Qualität und weniger Energieverbrauch in den Produktions- und Recyclingprozessen.</p></li><li><p>Projektführung und Investitionen: Sie begleite",
+      "apply_url": "https://www.arbeitnow.com/jobs/companies/monika-moser-executive-search/leiter-technische-entwicklung-horselberg-hainich-176692",
+      "source": "Arbeitnow API",
+      "tags": [
+        "Automation Engineering"
+      ],
+      "posted_at": 1794677442,
+      "dedup_hash": "7072d888dcbd67960de963d612247c9a",
+      "role": "Other Tech",
+      "city": "Other India",
+      "job_type": "Fresher/Full-time",
+      "stipend_salary": "Not Disclosed",
+      "confidence": 0.88,
+      "tagger_used": "Heuristic Rule Engine"
+    },
+    {
+      "title": "Senior Solutions Engineer",
+      "company": "Jfrog",
+      "raw_location": "",
+      "description": "&lt;div class=&quot;col-lg-6 content&quot;&gt;\n&lt;p class=&quot;p1&quot;&gt;&lt;strong&gt;Residency in Germany is required. This role is currently fully remote&lt;/strong&gt; &lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;#LI-Remote&lt;/span&gt;&lt;/p&gt;\n&lt;/div&gt;\n&lt;p&gt;At JFrog, we’re reinventing DevOps to help the world’s greatest companies innovate -- and we want you along for the ride. This is a special place with a unique combination of brilliance, spirit and just all-around great people. Here, if you’re willing to do more, your career can take off. And since software plays a central role in everyone’s lives, you’ll be part of an important mission. Thousands of customers, including the majority of the Fortune 100, trust JFrog to manage, accelerate, and secure their software delivery from code to production -- a concept we call “liquid software.” Wouldn&#39;t it be amazing if you could join us in our journey?&lt;/p&gt;\n&lt;p&gt;We are looking for a Solutions Engineer to be on the front lines, working closely with our strategic customers and prospects, guiding them on how to build r",
+      "apply_url": "https://www.arbeitnow.com/jobs/companies/jfrog/senior-solutions-engineer-419652",
+      "source": "Arbeitnow API",
+      "tags": [
+        "Solutions Engineering"
+      ],
+      "posted_at": 1794671721,
+      "dedup_hash": "17d65fe3ba5538707fc19cba3e0b7d40",
+      "role": "Other Tech",
+      "city": "Remote",
+      "job_type": "Fresher/Full-time",
+      "stipend_salary": "Not Disclosed",
+      "confidence": 0.88,
+      "tagger_used": "Heuristic Rule Engine"
+    },
+    {
+      "title": "(Senior) Software Engineer (d/f/m)",
+      "company": "Taxfix",
+      "raw_location": "Berlin",
+      "description": "<h2><strong>Our story:</strong></h2><p style=\"min-height:1.5em\">Every year millions of people are either filing their taxes in fear or giving up on their tax refund altogether. We're working on fixing that. Our intuitive app enables anyone, regardless of education or background, to file their taxes with newfound confidence.</p><p style=\"min-height:1.5em\">Spread across Germany, Spain and the UK, the team at Taxfix Group with its brands Taxfix and Steuerbot, is a compassionate group of solution-finders. We speak our minds openly, and with over 400 professionals, including tax experts, developers, and IT security experts, we're rich in ideas and voices. The group has facilitated more than 3.5 billion euros in tax refunds for its customers since its founding in 2016.</p><p style=\"min-height:1.5em\"></p><h2>The opportunity<strong>:</strong></h2><p style=\"min-height:1.5em\">As a (Senior) Software Engineer, you’ll build core features for our flagship product, turning complex tax scenarios into simple, reliable experiences. You’ll bring a builder-first mindset: staying close to customer problems, using AI and modern engineering tools to move from idea to impact quickly, and taking ownership ",
+      "apply_url": "https://www.arbeitnow.com/jobs/companies/taxfix/senior-software-engineer-berlin-180463",
+      "source": "Arbeitnow API",
+      "tags": [
+        "Product Engineering"
+      ],
+      "posted_at": 1794670813,
+      "dedup_hash": "f6b551774071efb899e516725ddf9056",
+      "role": "Backend",
+      "city": "Other India",
+      "job_type": "Fresher/Full-time",
+      "stipend_salary": "Not Disclosed",
+      "confidence": 0.88,
+      "tagger_used": "Heuristic Rule Engine"
+    },
+    {
+      "title": "Fullstack Software Engineer (m/f/d)",
+      "company": "Dataguard",
+      "raw_location": "Munich",
+      "description": "<h2><strong>YOUR JOB</strong></h2><p style=\"min-height:1.5em\">AI can write code now. It can't decide what's worth building, and it can't tell whether its own output is right. That part is yours. As a Fullstack Software Engineer in our customer-facing feature team, you'll take on real problems, often co-leading an initiative with a fellow engineer. You'll carry them from the first discovery conversation to production and beyond, working with Product, Design and engineers who would rather own an outcome than close a ticket. What you build lands with many companies working to keep their data, and the people behind it, safe.</p><h2></h2><h2><strong>WE PROTECT THE PEOPLE BEHIND THE DATA</strong></h2><p style=\"min-height:1.5em\">We are a fast-growing security and compliance tech company with a clear purpose: we protect the people behind the data. With over 200 team members worldwide and with offices in Munich, Berlin, London, Stockholm, and Vienna, we help more than 4,000 global customers get certified fast and build a strong and scalable risk posture. With AI-powered automation, self-serve capabilities, and additional tailored expert advice, we offer our customers a seamless security and",
+      "apply_url": "https://www.arbeitnow.com/jobs/companies/dataguard/fullstack-software-engineer-munich-197283",
+      "source": "Arbeitnow API",
+      "tags": [
+        "Engineering"
+      ],
+      "posted_at": 1794670812,
+      "dedup_hash": "f53cf692ac4e954bf5837a474005e01f",
+      "role": "Full Stack",
+      "city": "Other India",
+      "job_type": "Fresher/Full-time",
+      "stipend_salary": "Not Disclosed",
+      "confidence": 0.88,
+      "tagger_used": "Heuristic Rule Engine"
+    },
+    {
+      "title": "Working Student / Intern – Industrialization Land / UGV (m/f/d)",
+      "company": "Quantum-Systems GmbH",
+      "raw_location": "Göppingen, Baden-Württemberg, Germany",
+      "description": "<p>As a Working Student or Intern (m/f/d) in the field of Land Systems / UGV Industrialization, you will support our team in Göppingen in establishing serial production for unmanned ground vehicles (UGVs). You will work closely with the Industrialization team and our external consulting partners, taking responsibility for clearly defined work packages in documentation, data management, and production planning preparation.</p><p style=\"min-height: 1.7em;\"></p><p>You will collaborate across Production, Engineering, Quality, and Logistics, gaining first-hand experience of a real production ramp-up from the very beginning and seeing how a prototype-based setup evolves into a scalable and repeatable serial production process.</p><p style=\"text-align:justify;\"><br></p><h4><strong>What is your Day to Day Mission:</strong></h4><p style=\"min-height: 1.7em;\"></p><ul><li><p>Support the shopfloor planning activities at our Göppingen site by documenting current-state processes and contributing to layout planning, material flow design, and production cycle data (e.g., cycle times, workstation utilization, and walking distances).</p></li><li><p>Support process design activities by helping to stru",
+      "apply_url": "https://www.arbeitnow.com/jobs/companies/quantum-systems-gmbh/working-student-intern-industrialization-land-ugv-goppingen-338227",
+      "source": "Arbeitnow API",
+      "tags": [
+        "Student & Early Professionals"
+      ],
+      "posted_at": 1794670302,
+      "dedup_hash": "1641856a4338c6b40b6b313b1283926e",
+      "role": "Other Tech",
+      "city": "Other India",
+      "job_type": "Internship",
+      "stipend_salary": "Not Disclosed",
+      "confidence": 0.88,
+      "tagger_used": "Heuristic Rule Engine"
+    },
+    {
+      "title": "Working Student - Returns Management (m/f/d)",
+      "company": "Quantum-Systems GmbH",
+      "raw_location": "Gilching, Bayern, Germany",
+      "description": "<p>As a Working Student in Repair &amp; Service Coordination, you will be a key part of our team to ensure smooth and efficient repair and service processes for our customers. Together with our world-class team, you will take an empowering role in supporting our operations and customer service.</p><p>You will work closely with Customer Support, Repair, and Fulfillment to coordinate repairs, system returns, and customer requests. By ensuring reliable processes and continuously improving our service quality, your mission will have a powerful impact at Quantum Systems.<br></p><h4><strong>What is your Day to Day Mission:</strong></h4><ul><li><p class=\"Paragraph SCXW178839010 BCX8\"><strong>Returns Management: </strong>&nbsp;<br>Assist the team to coordinate with the customers to return systems or subsystems for repair and maintenance.&nbsp;</p></li><li><p class=\"Paragraph SCXW178839010 BCX8\"><strong>Documentation</strong></p><p class=\"Paragraph SCXW178839010 BCX8\">Documentation and control of incoming and outgoing system configurations in existing configuration databases.&nbsp;</p></li><li><p class=\"Paragraph SCXW178839010 BCX8\"><strong>Repair Coordination: </strong>&nbsp;<br>Assist the",
+      "apply_url": "https://www.arbeitnow.com/jobs/companies/quantum-systems-gmbh/working-student-returns-management-gilching-4623",
+      "source": "Arbeitnow API",
+      "tags": [
+        "Student & Early Professionals"
+      ],
+      "posted_at": 1794670302,
+      "dedup_hash": "07edc54ec9c5d07e151de8ae13153353",
+      "role": "Other Tech",
+      "city": "Other India",
+      "job_type": "Fresher/Full-time",
+      "stipend_salary": "Not Disclosed",
+      "confidence": 0.88,
+      "tagger_used": "Heuristic Rule Engine"
+    },
+    {
+      "title": "Software Provisioning Technician (m/f/d) - UGV",
+      "company": "Quantum-Systems GmbH",
+      "raw_location": "Göppingen, Baden-Württemberg, Germany",
+      "description": "<figure><img style=\"width:899px\" src=\"https://quantum-systems.com/wp-content/uploads/2026/02/QS_Press_Word_Press_Ground_Domain.png\"></figure><p style=\"text-align:justify;min-height: 1.7em;\"></p><p>As a Software Provisioning Technician UGV (m/f/d), you will be part of our production team for unmanned ground systems at our Göppingen site and will be responsible for the software deployment, configuration, and release of Mandrill UGVs and future LAND platforms. You will ensure that every vehicle is delivered with the correct, approved software configuration, playing a key role in transforming our LAND production from prototype-based manufacturing into a robust, repeatable, and scalable serial production environment.</p><p style=\"min-height: 1.7em;\"></p><p>You will work hands-on with the vehicles while collaborating closely with Software/Firmware Engineering, Quality, Testing, and Production teams. In this role, you will follow approved work instructions, ensure full traceability of all activities, and actively contribute shop floor feedback to the continuous improvement of provisioning processes.</p><p style=\"min-height: 1.7em;\"></p><h4><strong>What is your Day to Day Mission:</strong>",
+      "apply_url": "https://www.arbeitnow.com/jobs/companies/quantum-systems-gmbh/software-provisioning-technician-ugv-goppingen-499660",
+      "source": "Arbeitnow API",
+      "tags": [
+        "Production & Automation"
+      ],
+      "posted_at": 1794670302,
+      "dedup_hash": "359439c42988d5ba5e53f056c0e26a80",
+      "role": "Other Tech",
+      "city": "Other India",
       "job_type": "Fresher/Full-time",
       "stipend_salary": "Not Disclosed",
       "confidence": 0.88,
@@ -10366,329 +10198,6 @@
       "tagger_used": "Heuristic Rule Engine"
     },
     {
-      "title": "Director - Business Development",
-      "company": "rocketlab",
-      "raw_location": "Munich",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;ABOUT ROCKET LAB&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Rocket Lab is the end-to-end space company building rockets, spacecraft, and critical subsystems that keep the world connected, protected, expand humanity’s reach to the Moon, Mars, and beyond. We move fast, build real hardware for meaningful missions, and make the impossible routine. Come shape the future with us.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;SPACE SYSTEMS&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;At Rocket Lab, we’re not just launching rockets — we&#39;re building the future of space. Our Space Systems team builds everything from complete spacecraft, precision payloads to the components and subsystems that allow them to thrive in space, like solar panels, flight software, star trackers, optical systems, separation systems, radios, and more.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;Our Space Systems team has enabled more than 1,700 missions, ranging from interplanetary exploration, in-space manufacturing to national security and defense initiatives. The team has built spacecraft, payloads, and components for missions to the Moon and Mars, working with partners including ",
-      "apply_url": "https://www.arbeitnow.com/jobs/companies/rocketlab/director-business-development-munich-294552",
-      "source": "Arbeitnow API",
-      "tags": [
-        "1520 Space Systems BD"
-      ],
-      "posted_at": 1794628520,
-      "dedup_hash": "c4a870c5993d87e3e471f691db929dcd",
-      "role": "Other Tech",
-      "city": "Other India",
-      "job_type": "Fresher/Full-time",
-      "stipend_salary": "Not Disclosed",
-      "confidence": 0.88,
-      "tagger_used": "Heuristic Rule Engine"
-    },
-    {
-      "title": "(Senior) IT Support Specialist (m/f/d)",
-      "company": "Statista",
-      "raw_location": "Hamburg",
-      "description": "<p style=\"min-height:1.5em\">At <strong>Statista</strong>, we’re all about facts and data, for we are the world's leading business data platform. By providing reliable and easy-to-use data as well as various data analytics products and services, we empower people worldwide to make fact-based decisions.</p><p style=\"min-height:1.5em\">Founded in Hamburg in 2007, we have quickly grown into a global company with offices in major cities such as London, New York, Berlin and Tokyo. And we still have a lot of plans. Our constant growth does not only prove our success, but also keeps creating new development and career opportunities for our employees.</p><p style=\"min-height:1.5em\">We value and celebrate our diverse culture. You are welcome here for who you are, no matter where you come from, what you look like, or whether you prefer bar graphs to pie charts. Your story matters – keep writing it as part of our team.</p><p style=\"min-height:1.5em\">Are you ready to join us?</p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\"><strong>Your Responsibilities</strong></p><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Serve as the first point of contact for Level 1 tickets a",
-      "apply_url": "https://www.arbeitnow.com/jobs/companies/statista/senior-it-support-specialist-hamburg-14952",
-      "source": "Arbeitnow API",
-      "tags": [
-        "Tech"
-      ],
-      "posted_at": 1794627626,
-      "dedup_hash": "aa1546fa9257025939394f91bdc9c7b5",
-      "role": "Other Tech",
-      "city": "Other India",
-      "job_type": "Fresher/Full-time",
-      "stipend_salary": "Not Disclosed",
-      "confidence": 0.88,
-      "tagger_used": "Heuristic Rule Engine"
-    },
-    {
-      "title": "(Senior) Finance Technology Manager (m/f/d)",
-      "company": "Statista",
-      "raw_location": "Hamburg",
-      "description": "<p style=\"min-height:1.5em\">At <strong>Statista</strong>, we’re all about facts and data, for we are the world's leading business data platform. By providing reliable and easy-to-use data as well as various data analytics products and services, we empower people worldwide to make fact-based decisions.</p><p style=\"min-height:1.5em\">Founded in Hamburg in 2007, we have quickly grown into a global company with offices in major cities such as London, New York, Berlin and Tokyo. And we still have a lot of plans. Our constant growth does not only prove our success, but also keeps creating new development and career opportunities for our employees.</p><p style=\"min-height:1.5em\">We value and celebrate our diverse culture. You are welcome here for who you are, no matter where you come from, what you look like, or whether you prefer bar graphs to pie charts. Your story matters – keep writing it as part of our team.</p><p style=\"min-height:1.5em\">Are you ready to join us?</p><p style=\"min-height:1.5em\"></p><h2>Your job</h2><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Support and lead transformation and optimization projects across Finance.</p></li><li><p style=\"min-height:1.5",
-      "apply_url": "https://www.arbeitnow.com/jobs/companies/statista/senior-finance-technology-manager-hamburg-186714",
-      "source": "Arbeitnow API",
-      "tags": [
-        "Finance"
-      ],
-      "posted_at": 1794627626,
-      "dedup_hash": "485030b0d464886a9ad3a3a0f16adfe8",
-      "role": "Other Tech",
-      "city": "Other India",
-      "job_type": "Fresher/Full-time",
-      "stipend_salary": "Not Disclosed",
-      "confidence": 0.88,
-      "tagger_used": "Heuristic Rule Engine"
-    },
-    {
-      "title": "(Junior) Graphic Designer (m/f/d)",
-      "company": "Statista",
-      "raw_location": "Hamburg",
-      "description": "<p style=\"min-height:1.5em\">At <strong>Statista</strong>, we’re all about facts and data, for we are the world's leading business data platform. By providing reliable and easy-to-use data as well as various data analytics products and services, we empower people worldwide to make fact-based decisions.</p><p style=\"min-height:1.5em\">Founded in Hamburg in 2007, we have quickly grown into a global company with offices in major cities such as London, New York, Berlin and Tokyo. And we still have a lot of plans. Our constant growth does not only prove our success, but also keeps creating new development and career opportunities for our employees.</p><p style=\"min-height:1.5em\">We value and celebrate our diverse culture. You are welcome here for who you are, no matter where you come from, what you look like, or whether you prefer bar graphs to pie charts. Your story matters – keep writing it as part of our team.</p><p style=\"min-height:1.5em\">Are you ready to join us?</p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\"><strong>Your Role</strong><br /><br />As a (Junior) Graphic Designer in our Licensing Team at <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https:",
-      "apply_url": "https://www.arbeitnow.com/jobs/companies/statista/junior-graphic-designer-hamburg-214915",
-      "source": "Arbeitnow API",
-      "tags": [
-        "Revenue"
-      ],
-      "posted_at": 1794627626,
-      "dedup_hash": "c40663389e1c264be2afd21257a76f15",
-      "role": "Other Tech",
-      "city": "Other India",
-      "job_type": "Fresher/Full-time",
-      "stipend_salary": "Not Disclosed",
-      "confidence": 0.88,
-      "tagger_used": "Heuristic Rule Engine"
-    },
-    {
-      "title": "Senior Backend Engineer - Java/Kotlin (x/f/m)",
-      "company": "Doctolib",
-      "raw_location": "Berlin",
-      "description": "<h1><strong>Senior Backend Engineer - Java/Kotlin (x/f/m)</strong></h1><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\"></p><h2><strong>Set a new pulse for healthcare!</strong></h2><p style=\"min-height:1.5em\">We are looking for a <strong>Senior Backend Engineer</strong> to join the <strong>IAM (Identity and Access Management)</strong> team in <strong>Platform Services Tech</strong>.</p><p style=\"min-height:1.5em\">Your mission will be to secure and scale the authentication capabilities that millions of Doctolib users rely on every day. You will drive the most impactful phases of a critical, multi-year migration to a self-hosted, Keycloak-based identity provider — a project at the intersection of platform engineering, security, and cross-team impact. Working in the tech team at Doctolib means building innovative products and features to improve the daily lives of care teams and patients.</p><p style=\"min-height:1.5em\"></p><h2><strong>What you'll do</strong></h2><p style=\"min-height:1.5em\">Your responsibilities include but are not limited to:</p><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Lead the next phases of the multi-year authentication migration to a ",
-      "apply_url": "https://www.arbeitnow.com/jobs/companies/doctolib/senior-backend-engineer-java-kotlin-berlin-325851",
-      "source": "Arbeitnow API",
-      "tags": [
-        "Engineering"
-      ],
-      "posted_at": 1794627625,
-      "dedup_hash": "b45fbc52ffebabdcb7c8d77a880da520",
-      "role": "Backend",
-      "city": "Other India",
-      "job_type": "Fresher/Full-time",
-      "stipend_salary": "Not Disclosed",
-      "confidence": 0.88,
-      "tagger_used": "Heuristic Rule Engine"
-    },
-    {
-      "title": "Terminology Project Manager (x/f/m)",
-      "company": "Doctolib",
-      "raw_location": "Berlin",
-      "description": "<h1><strong>Set a new pulse for healthcare!</strong></h1><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\">We are looking for a<strong> Terminology Project Manager</strong> to join the Medical Excellence team in <strong>Berlin.</strong></p><p style=\"min-height:1.5em\">As a<strong> Terminology Project Manager,</strong> your mission will be to contribute to the delivery of medical initiatives with a direct public health impact. Working closely with our Global Medical Data Program Manager, you will play a pivotal role in revolutionising healthcare through the power of data — driving our mission to transform medical data management and interoperability in Germany.</p><p style=\"min-height:1.5em\">This is a full time position with a one year contract (parental leave replacement).</p><p style=\"min-height:1.5em\"></p><h2><strong>What you’ll do</strong></h2><p style=\"min-height:1.5em\">Your responsibilities include but are not limited to:</p><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Deliver adjusted terminologies to support new product launches and features</p></li><li><p style=\"min-height:1.5em\">Build comprehensive terminologies for both patients and healthcare pro",
-      "apply_url": "https://www.arbeitnow.com/jobs/companies/doctolib/terminology-project-manager-berlin-367128",
-      "source": "Arbeitnow API",
-      "tags": [
-        "Business Functions"
-      ],
-      "posted_at": 1794627625,
-      "dedup_hash": "fd948436f47da038f1820ce226513d4c",
-      "role": "Other Tech",
-      "city": "Other India",
-      "job_type": "Fresher/Full-time",
-      "stipend_salary": "Not Disclosed",
-      "confidence": 0.88,
-      "tagger_used": "Heuristic Rule Engine"
-    },
-    {
-      "title": "Business Development Representative BDR (German-speaking)",
-      "company": "Bowatt",
-      "raw_location": "Munich",
-      "description": "<p style=\"min-height:1.5em\"><strong>About BoWatt</strong></p><p style=\"min-height:1.5em\">BoWatt is building <strong>agentic requirements and system engineering software for manufacturing</strong>. We believe AI will reach <strong>PhD-level engineering capability within the next 10 years</strong>. This will unlock massive value across several complex manufacturing industries. Cars. Planes. Rockets. Factories. Chips. Medical devices. All will be engineered with agents.</p><div style=\"min-height:1.2em;margin-top:0px;margin-bottom:0px\"> </div><p style=\"min-height:1.5em\">We bootstrapped BoWatt to <strong>€500k+ ARR</strong> before raising our first round. BoWatt is backed by <strong>tier-1 investors,</strong> including Atlantic Foodlabs, Buildery (CDTM affiliates), and Prequel Ventures, along with angels from Cohere and Luminovo.</p><div style=\"min-height:1.2em;margin-top:0px;margin-bottom:0px\"> </div><p style=\"min-height:1.5em\">You’ll join a small, exceptional team of startup builders, driven by innovation and execution. Over half the team are former founders across DeepTech AI, psychedelics, and gaming. We’ve studied and worked at top institutions and companies like <strong>Stanford</",
-      "apply_url": "https://www.arbeitnow.com/jobs/companies/bowatt/business-development-representative-bdr-german-speaking-munich-220511",
-      "source": "Arbeitnow API",
-      "tags": [
-        "Growth"
-      ],
-      "posted_at": 1794627625,
-      "dedup_hash": "04d7d41c9ed898b79592d9c855f965e5",
-      "role": "Other Tech",
-      "city": "Other India",
-      "job_type": "Fresher/Full-time",
-      "stipend_salary": "Not Disclosed",
-      "confidence": 0.88,
-      "tagger_used": "Heuristic Rule Engine"
-    },
-    {
-      "title": "Staplerfahrer / Fachkraft für Lagerlogistik – Schubmast (m/w/d)",
-      "company": "Rohlik",
-      "raw_location": "Garching bei München, Germany",
-      "description": "<p style=\"min-height:1.5em\"><strong>Staplerfahrer / Fachkraft für Lagerlogistik – Schubmast (m/w/d)</strong> Garching bei München (Gewerbegebiet) | Logistik / Operations | Vollzeit</p><p style=\"min-height:1.5em\">Knuspr ist Teil der Rohlik Gruppe – und wir verändern die Art und Weise, wie Menschen Lebensmittel einkaufen. Unser Herz schlägt für frische, hochwertige Produkte und eine blitzschnelle Lieferung direkt an die Haustür. Für unser modernes Logistikzentrum in Garching bei München suchen wir verlässliche Staplerfahrer (m/w/d), die im Hochregallager den Überblick behalten und für einen reibungslosen Materialfluss sorgen.</p><p style=\"min-height:1.5em\">In dieser Rolle bewegst du täglich unsere Waren, versorgst die Packstrecken und stellst sicher, dass die LKW pünktlich und sicher be- und entladen werden. Wenn du nachweisbare Praxis auf dem Schubmaststapler mitbringst und in einem dynamischen, wachsenden Umfeld anpacken willst, bist du bei uns genau richtig.</p><p style=\"min-height:1.5em\"><strong>Warum diese Rolle spannend ist</strong></p><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\"><strong>Mitten im Geschehen:</strong> Du bist das Rückgrat unseres Warenlagers und ",
-      "apply_url": "https://www.arbeitnow.com/jobs/companies/rohlik/staplerfahrer-fachkraft-fur-lagerlogistik-schubmast-garching-bei-munchen-297330",
-      "source": "Arbeitnow API",
-      "tags": [
-        "Operations & Supply Chain"
-      ],
-      "posted_at": 1794627624,
-      "dedup_hash": "ee5848c4b900459374eb650635f38aa1",
-      "role": "Other Tech",
-      "city": "Other India",
-      "job_type": "Fresher/Full-time",
-      "stipend_salary": "Not Disclosed",
-      "confidence": 0.88,
-      "tagger_used": "Heuristic Rule Engine"
-    },
-    {
-      "title": "CMO Partner Manager - Contract Manufacturing (all genders)",
-      "company": "Sunday Natural",
-      "raw_location": "Berlin",
-      "description": "<h2><strong>Your role</strong></h2><p style=\"min-height:1.5em\">As our CMO Partner Manager (all genders), you will serve as the strategic interface between our internal teams (R&amp;D, Quality, Operations) and external manufacturing partners. You will own your product categories end-to-end - securing product availability, driving cost efficiency, and leveraging external manufacturing intelligence to spark innovation within our supply chain.</p><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\"><strong>Drive Security of Supply:</strong> Guarantee product availability and eliminate stockouts through proactive risk management, robust capacity planning, and flawless data tracking (ETAs).</p></li><li><p style=\"min-height:1.5em\"><strong>Manage &amp; Scale Partner Networks:</strong> Continuously screen the market for new manufacturing capabilities, onboard strategic CMO partners, and manage day-to-day partner operations.</p></li><li><p style=\"min-height:1.5em\"><strong>Optimize TCO &amp; Commercials:</strong> Build deep market insight into raw material and manufacturing costs to negotiate optimal pricing, terms, and Total Cost of Ownership (TCO).</p></li><li><p style=\"min-height:1",
-      "apply_url": "https://www.arbeitnow.com/jobs/companies/sunday-natural/cmo-partner-manager-contract-manufacturing-all-genders-berlin-324967",
-      "source": "Arbeitnow API",
-      "tags": [
-        "Operations"
-      ],
-      "posted_at": 1794627624,
-      "dedup_hash": "685e9343586bfbc61587b6cba9879daa",
-      "role": "Other Tech",
-      "city": "Other India",
-      "job_type": "Fresher/Full-time",
-      "stipend_salary": "Not Disclosed",
-      "confidence": 0.88,
-      "tagger_used": "Heuristic Rule Engine"
-    },
-    {
-      "title": "Werkstudent HR – Recruiting & Employer Branding (m/w/d)",
-      "company": "ABRIO GmbH",
-      "raw_location": "Frankfurt, Hessen, Deutschland",
-      "description": "<p class=\"isSelectedEnd\"><strong><span style=\"color:#121317\">Frankfurt am Main · Hybrid · Start ab sofort · 16–20 Stunden pro Woche</span></strong></p><p class=\"isSelectedEnd\"><span style=\"color:#121317\">Stell dir vor, es ist dein erster Tag als Werkstudent:in HR bei ABRIO. Dein Team empfängt dich herzlich, dein Onboarding ist vorbereitet und beim gemeinsamen Team-Lunch lernst du deine neuen Kolleg:innen kennen. Schon bald hilfst du selbst dabei, weitere Talente für ABRIO zu begeistern.</span></p><p class=\"isSelectedEnd\"><span style=\"color:#121317\">Als Digital-Commerce-Beratung aus Frankfurt unterstützen wir führende Marken bei ihrem digitalen Wachstum. Im People-&amp;-Culture-Team gestaltest du mit, wie wir passende Menschen gewinnen, neue Kolleg:innen begleiten und unsere Arbeitgebermarke erlebbar machen.</span></p><p><span style=\"color:#121317\">Dabei bringst du dein Wissen aus dem Studium ein, sammelst praktische Erfahrung im Recruiting und Personalmanagement und übernimmst nach deiner Einarbeitung eigene Aufgaben. Regelmäßiges Feedback unterstützt dich dabei, fachlich und persönlich weiterzuwachsen. Klingt spannend? Dann freuen wir uns darauf, dich kennenzulernen!</span></p><p ",
-      "apply_url": "https://www.arbeitnow.com/jobs/companies/abrio-gmbh/werkstudent-hr-recruiting-employer-branding-frankfurt-418360",
-      "source": "Arbeitnow API",
-      "tags": [
-        "People & Culture"
-      ],
-      "posted_at": 1794627100,
-      "dedup_hash": "a1c41970b24a828ad073274d63f9b06d",
-      "role": "Other Tech",
-      "city": "Other India",
-      "job_type": "Fresher/Full-time",
-      "stipend_salary": "Not Disclosed",
-      "confidence": 0.88,
-      "tagger_used": "Heuristic Rule Engine"
-    },
-    {
-      "title": "Country Director DACH / Managing Director Germany (m/w/d)",
-      "company": "iwell",
-      "raw_location": "Düsseldorf, Nordrhein-Westfalen, Germany",
-      "description": "<p><strong>Standort:</strong> Deutschland (flexibel / hybrid)<br><strong>Berichtet an:</strong> Executive Leadership Team<br><strong>Verantwortungsbereich:</strong> Gesamtverantwortung für kommerzielles Wachstum, Organisationsentwicklung und Geschäftsergebnis in Deutschland in den Märkten Utility-Scale BESS sowie Community, Commercial &amp; Industrial (CCI).</p><p style=\"min-height: 1.7em;\"></p><p><strong>Über iwell</strong><br>iwell ist ein führender europäischer Anbieter von intelligentem Energiemanagement und Batteriespeicherlösungen (Battery Energy Storage Solutions, BESS). Wir unterstützen unsere Kunden dabei, Energiekosten zu senken, den Energieverbrauch zu optimieren, ihre Resilienz zu erhöhen und die Energiewende zu beschleunigen. iwell hat eine starke Erfolgsbilanz in ganz Europa und eine etablierte Präsenz in Deutschland. Darauf aufbauend startet iwell in die nächste Wachstumsphase in einem der dynamischsten und strategisch wichtigsten Energiespeichermärkte des Kontinents.</p><p style=\"min-height: 1.7em;\"></p><p>Für diese Ambition sucht iwell eine erfahrene Persönlichkeit als Country Director / Managing Director Germany (m/w/d). Sie führen das deutsche Geschäft und treibe",
-      "apply_url": "https://www.arbeitnow.com/jobs/companies/iwell/country-director-dach-managing-director-germany-dusseldorf-69738",
-      "source": "Arbeitnow API",
-      "tags": [
-        "Leadership Team"
-      ],
-      "posted_at": 1794627097,
-      "dedup_hash": "f1da8effab49c9d3ee108209ca16eb1d",
-      "role": "Other Tech",
-      "city": "Other India",
-      "job_type": "Fresher/Full-time",
-      "stipend_salary": "Not Disclosed",
-      "confidence": 0.88,
-      "tagger_used": "Heuristic Rule Engine"
-    },
-    {
-      "title": "Portfolio Commercial Director",
-      "company": "Odyssey Hotel Group",
-      "raw_location": "Berlin, Berlin, Germany",
-      "description": "<p class=\"Paragraph SCXW256338317 BCX8\" style=\"text-align:justify;\"><strong>WOULD YOU LIKE TO BE PART OF A FAST - GROWING ORGANISATION?</strong>&nbsp;</p><p class=\"Paragraph SCXW256338317 BCX8\" style=\"text-align:justify;\"><strong>JOIN US AS AREA COMMERCIAL DIRECTOR!</strong></p><p style=\"min-height: 1.7em;\"></p><p class=\"Paragraph SCXW256338317 BCX8\" style=\"text-align:justify;\"><strong>ABOUT ODYSSEY</strong>&nbsp;</p><p class=\"Paragraph SCXW256338317 BCX8\" style=\"text-align:justify;\">We're The Odyssey Hotel Group, Europe’s most ambitious hotel operator and the team behind many famous global hospitality names. We partner with Marriott, IHG, and Accor to develop exceptional properties across various brands, from Holiday Express to Marriott's Autograph collection. Powered by over 800 employees and supported by Activum SG as our major shareholder, our purpose is to shape hospitality together!</p><p style=\"min-height: 1.7em;\"></p><p class=\"Paragraph SCXW256338317 BCX8\" style=\"text-align:justify;\"><strong>ABOUT POSITION</strong></p><p>The <strong>Portfolio Commercial Director</strong> is responsible for the overall commercial performance of a blended portfolio of full service hotels, str",
-      "apply_url": "https://www.arbeitnow.com/jobs/companies/odyssey-hotel-group/portfolio-commercial-director-berlin-178242",
-      "source": "Arbeitnow API",
-      "tags": [
-        "Revenue"
-      ],
-      "posted_at": 1794627097,
-      "dedup_hash": "a0f05ea65143dbab2c9447cefd8ff656",
-      "role": "Other Tech",
-      "city": "Other India",
-      "job_type": "Fresher/Full-time",
-      "stipend_salary": "Not Disclosed",
-      "confidence": 0.88,
-      "tagger_used": "Heuristic Rule Engine"
-    },
-    {
-      "title": "AI-Native Software Engineer (m/w/d)",
-      "company": "vitaservices GmbH & Co. KG",
-      "raw_location": "Berlin",
-      "description": "<h2>Dein Plus bei Health Dialog Solutions</h2>\n<p>Wir entwickeln Software, IT-Services und digitale Lösungen für Kassenärztliche Vereinigungen und Krankenversicherungen. Unsere Produkte helfen dabei, ambulante medizinische Versorgung zu steuern, zu digitalisieren und effizienter zu gestalten – für Millionen Patienten in Deutschland.  </p>\n<p>Mit über 25 Jahren Erfahrung im deutschen Gesundheitswesen und rund 300 Experten an deutschen Standorten verbinden wir tiefes Markt-Know-how mit moderner Technologie. Unsere Kunden setzen auf uns, weil wir die komplexen regulatorischen und operativen Anforderungen des Gesundheitsmarktes kennen und passgenaue Lösungen dafür liefern.  </p>\n<ul>\n<li>Greenfield: Du baust unseren AI-Coding-Stack von Grund auf – kein Legacy-Setup, keine Altlasten</li>\n<li>Volle Gestaltungshoheit über Werkzeuge, Architektur und Prozess</li>\n<li>30 Tage Urlaub</li>\n<li>Mobile Office</li>\n<li>Möglichkeit zum Arbeiten im europäischen Ausland</li>\n<li>Betriebliche Altersvorsorge</li>\n<li>Flexible Arbeitszeiten</li>\n<li>JobRad: Fahrrad-Leasing zur beruflichen und privaten Nutzung</li>\n<li>Attraktive MitarbeiterInnen-Rabatte</li>\n<li>Offene Feedback-Kultur und individuelle ",
-      "apply_url": "https://www.arbeitnow.com/jobs/companies/vitaservices-gmbh-co-kg/ai-native-software-engineer-berlin-186419",
-      "source": "Arbeitnow API",
-      "tags": [
-        "Software Development"
-      ],
-      "posted_at": 1794623437,
-      "dedup_hash": "d7899f7c1c45b23f5571302b49ed7b92",
-      "role": "AI/ML",
-      "city": "Other India",
-      "job_type": "Fresher/Full-time",
-      "stipend_salary": "Not Disclosed",
-      "confidence": 0.88,
-      "tagger_used": "Heuristic Rule Engine"
-    },
-    {
-      "title": "Working Student Legal Operations and Technology",
-      "company": "celonis",
-      "raw_location": "Munich",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Celonis is the trusted platform to industrialize Enterprise AI. At our core is the Celonis Context Model — which combines process data, business knowledge, and intelligence into a living digital twin of the enterprise that AI can actually understand, turning AI&#39;s operational blind spots into operational clarity. World&#39;s leading companies trust Celonis and its global ecosystem of partners to make their AI agents, people, systems, and processes work together, achieving transformational outcomes. We believe there&#39;s a massive opportunity to unlock global productivity and sustainability by giving AI the context to understand how every business process really works. Join our mission to make processes work for people, companies, and the planet.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;The Team&lt;/strong&gt;:&lt;/p&gt;\n&lt;p&gt;As part of the Legal and Trust team, you will collaborate closely with cross-functional departments to enhance legal operations, streamline contracting workflows, and uphold information security compliance. The team plays a critical role in mitigating corporate legal risks and ensuring Celonis&#39;s",
-      "apply_url": "https://www.arbeitnow.com/jobs/companies/celonis/working-student-legal-operations-and-technology-munich-482669",
-      "source": "Arbeitnow API",
-      "tags": [
-        "Legal"
-      ],
-      "posted_at": 1794617735,
-      "dedup_hash": "adf5975a2e07300b3a06b66de7c53db0",
-      "role": "Other Tech",
-      "city": "Other India",
-      "job_type": "Fresher/Full-time",
-      "stipend_salary": "Not Disclosed",
-      "confidence": 0.88,
-      "tagger_used": "Heuristic Rule Engine"
-    },
-    {
-      "title": "Senior Software Engineer - Query Engine & Database Systems",
-      "company": "celonis",
-      "raw_location": "Munich",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Celonis is the trusted platform to industrialize Enterprise AI. At our core is the Celonis Context Model — which combines process data, business knowledge, and intelligence into a living digital twin of the enterprise that AI can actually understand, turning AI&#39;s operational blind spots into operational clarity. World&#39;s leading companies trust Celonis and its global ecosystem of partners to make their AI agents, people, systems, and processes work together, achieving transformational outcomes. We believe there&#39;s a massive opportunity to unlock global productivity and sustainability by giving AI the context to understand how every business process really works. Join our mission to make processes work for people, companies, and the planet.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;The Team:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;You will be part of a team that owns the Process Query Engine which is an analytical database and our core product for process mining that enables our customers to interactively mine enterprise-sized data sets. In order to handle the strong growth of our customer base and their demands, we are conti",
-      "apply_url": "https://www.arbeitnow.com/jobs/companies/celonis/senior-software-engineer-query-engine-database-systems-munich-4419",
-      "source": "Arbeitnow API",
-      "tags": [
-        "Engineering"
-      ],
-      "posted_at": 1794617735,
-      "dedup_hash": "9566a2d54a2ce78df1880ad95b269dd1",
-      "role": "AI/ML",
-      "city": "Other India",
-      "job_type": "Fresher/Full-time",
-      "stipend_salary": "Not Disclosed",
-      "confidence": 0.88,
-      "tagger_used": "Heuristic Rule Engine"
-    },
-    {
-      "title": "Senior Software Engineer - Engine Orchestration",
-      "company": "celonis",
-      "raw_location": "Munich",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Celonis is the trusted platform to industrialize Enterprise AI. At our core is the Celonis Context Model — which combines process data, business knowledge, and intelligence into a living digital twin of the enterprise that AI can actually understand, turning AI&#39;s operational blind spots into operational clarity. World&#39;s leading companies trust Celonis and its global ecosystem of partners to make their AI agents, people, systems, and processes work together, achieving transformational outcomes. We believe there&#39;s a massive opportunity to unlock global productivity and sustainability by giving AI the context to understand how every business process really works. Join our mission to make processes work for people, companies, and the planet.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;The Team:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;The Engine Orchestration team builds and operates the distributed services that run, scale and balance the analytical query engines. We are the layer that turns a customer&#39;s model into something they and their AI agents can query interactively using our Process Query Language across enterprise-s",
-      "apply_url": "https://www.arbeitnow.com/jobs/companies/celonis/senior-software-engineer-engine-orchestration-munich-205702",
-      "source": "Arbeitnow API",
-      "tags": [
-        "Engineering"
-      ],
-      "posted_at": 1794617735,
-      "dedup_hash": "e22087f6ce535574b93a2937a40ecffa",
-      "role": "AI/ML",
-      "city": "Other India",
-      "job_type": "Fresher/Full-time",
-      "stipend_salary": "Not Disclosed",
-      "confidence": 0.88,
-      "tagger_used": "Heuristic Rule Engine"
-    },
-    {
-      "title": "Senior Software Engineer",
-      "company": "celonis",
-      "raw_location": "Munich",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Celonis is the trusted platform to industrialize Enterprise AI. At our core is the Celonis Context Model — which combines process data, business knowledge, and intelligence into a living digital twin of the enterprise that AI can actually understand, turning AI&#39;s operational blind spots into operational clarity. World&#39;s leading companies trust Celonis and its global ecosystem of partners to make their AI agents, people, systems, and processes work together, achieving transformational outcomes. We believe there&#39;s a massive opportunity to unlock global productivity and sustainability by giving AI the context to understand how every business process really works. Join our mission to make processes work for people, companies, and the planet.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;The Role&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;We are looking for a &lt;strong&gt;Senior Backend Software Engineer (Java)&lt;/strong&gt; to join the Provisioning &amp;amp; Licensing team. This is a high-impact role that demands significant &lt;strong&gt;autonomy and ownership&lt;/strong&gt;, driving the technical design and ",
-      "apply_url": "https://www.arbeitnow.com/jobs/companies/celonis/senior-software-engineer-munich-59079",
-      "source": "Arbeitnow API",
-      "tags": [
-        "Engineering"
-      ],
-      "posted_at": 1794617735,
-      "dedup_hash": "2d4ed6489219f2535203c221f16fac29",
-      "role": "AI/ML",
-      "city": "Other India",
-      "job_type": "Fresher/Full-time",
-      "stipend_salary": "Not Disclosed",
-      "confidence": 0.88,
-      "tagger_used": "Heuristic Rule Engine"
-    },
-    {
       "title": "Product Analyst (Mid and Senior Level) - Joint Account",
       "company": "Zopa",
       "raw_location": "London",
@@ -11099,25 +10608,6 @@
       ],
       "posted_at": 1794703212,
       "dedup_hash": "d4bc5aac859e50adea26a5829057d38e",
-      "role": "Other Tech",
-      "city": "Other India",
-      "job_type": "Fresher/Full-time",
-      "stipend_salary": "Not Disclosed",
-      "confidence": 0.88,
-      "tagger_used": "Heuristic Rule Engine"
-    },
-    {
-      "title": "Senior Motor Fleet Underwriter",
-      "company": "Flock",
-      "raw_location": "London",
-      "description": "<h2>About Flock</h2><p style=\"min-height:1.5em\">Road accidents kill and injure people, damage vehicles, and cost businesses fortunes. But traditional insurance does nothing to prevent them - it just pays out claims when they happen. At Flock, we’re changing that. Using telematics, AI, and real-time data, we proactively help our fleet customers prevent crashes. We obsessively focus on keeping drivers safe, and we put our money where our mouth is - paying out millions of pounds per year to fleets that get safer over time.</p><p style=\"min-height:1.5em\">We were acquired by Admiral in May 2026. Now we combine the backing of the UK’s leading motor insurer with startup energy and speed. We’re growing fast with bigger plans than ever, and we’re hugely optimistic that our approach will save many more lives in the decade ahead.</p><p style=\"min-height:1.5em\">We’re on a mission to make the world quantifiably safer. Join us!</p><div style=\"min-height:1.2em;margin-top:0px;margin-bottom:0px\"> </div><h2>About the role</h2><p style=\"min-height:1.5em\">As a Senior Motor Fleet Underwriter, you’ll manage and grow a large portfolio of fleet business, using data and AI to assess risk and tailor cover t",
-      "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/flock/senior-motor-fleet-underwriter-london-405404",
-      "source": "Arbeitnow API",
-      "tags": [
-        "Underwriting"
-      ],
-      "posted_at": 1794703212,
-      "dedup_hash": "1e517b363cf04c9a28877b1a926446b0",
       "role": "Other Tech",
       "city": "Other India",
       "job_type": "Fresher/Full-time",
@@ -11870,6 +11360,136 @@
       "tagger_used": "Heuristic Rule Engine"
     },
     {
+      "title": "Software Test Engineer",
+      "company": "SwissPeak Partners GmbH",
+      "raw_location": "Remote job",
+      "description": "<p style=\"text-align:start;\">Wir rekrutieren einen Software Test Engineer (m/w/d) für ein neu formiertes Team rund um ein Dynamics 365 Projekt. Das Testing wird von Grund auf neu aufgebaut, du bist also massgeblich an der Definition des Vorgehens beteiligt.</p><p style=\"text-align:start;\">Du testest im Sprint mit und verantwortest gleichzeitig die Teststrategie, das Testkonzept und die Testplanung. Du koordinierst die UAT mit dem Fachbereich und bringst Qualitätsstandards in ein Team, das seine Testing-Reife gerade aufbaut. Der Fokus liegt überwiegend auf manuellem Testing, mit der Möglichkeit, später in die Automatisierung hineinzuwachsen.</p><p style=\"min-height: 1.7em;\"></p><p style=\"text-align:start;\"><strong>Must-have Anforderungen</strong></p><ul><li><p>Mehrjährige Erfahrung im Software-Testing in agilen Umgebungen, sicher im Testfalldesign und in der Erstellung von Testkonzepten</p></li><li><p>Erfahrung mit Azure DevOps (Boards, Test Plans) oder Jira Xray</p></li><li><p>Erfahrung im Testing konfigurierter Business-Plattformen, idealerweise Dynamics 365 (CE/CRM) oder Power Platform</p></li><li><p>Sehr gutes Deutsch und fliessendes Englisch</p><p style=\"min-height: 1.7em;\"></p",
+      "apply_url": "https://www.arbeitnow.ch/jobs/companies/swisspeak-partners-gmbh/remote-software-test-engineer-bern-98324",
+      "source": "Arbeitnow API",
+      "tags": [
+        "Software Engineering",
+        "Remote"
+      ],
+      "posted_at": 1794562296,
+      "dedup_hash": "53a2a16acec38ba613110d865971327c",
+      "role": "QA & Testing",
+      "city": "Remote",
+      "job_type": "Fresher/Full-time",
+      "stipend_salary": "Not Disclosed",
+      "confidence": 0.88,
+      "tagger_used": "Heuristic Rule Engine"
+    },
+    {
+      "title": "Senior Network Engineer",
+      "company": "SwissPeak Partners GmbH",
+      "raw_location": "Zurich, Zürich, Switzerland",
+      "description": "<p style=\"text-align:start;\">Our client is an established, family-owned industrial technology company headquartered near Zurich. Its systems run at customer sites in more than 60 countries. To keep them reachable and secure, it needs someone who can build and run the networks behind them, and who is comfortable intervening and troubleshooting when a customer's connection goes down.<br></p><p style=\"text-align:start;\"><strong>What you'll do</strong></p><ul><li><p>Set up, run and troubleshoot site-to-site and remote-access VPNs to customer sites (IPsec, OpenVPN)</p></li><li><p>Configure and maintain firewalls (Fortinet, OPNsense and others)</p></li><li><p>Design and implement networks at customer sites: switching, routing, VLANs, WLAN</p></li><li><p>Find and fix network problems together with customers and colleagues around the world, remotely or on site</p></li><li><p>Install and roll out software on Windows and Linux systems</p></li><li><p>Build and maintain the internal test and lab networks</p></li><li><p>Keep network documentation clear and up to date, and help improve how the team works</p></li></ul><p style=\"min-height: 1.7em;\"></p><p style=\"min-height: 1.7em;\"></p><p style=\"m",
+      "apply_url": "https://www.arbeitnow.ch/jobs/companies/swisspeak-partners-gmbh/senior-network-engineer-zurich-212629",
+      "source": "Arbeitnow API",
+      "tags": [
+        "Infrastructure & DevOps"
+      ],
+      "posted_at": 1794562296,
+      "dedup_hash": "a371db7e6e9376b6ab69e893f164083c",
+      "role": "Other Tech",
+      "city": "Other India",
+      "job_type": "Fresher/Full-time",
+      "stipend_salary": "Not Disclosed",
+      "confidence": 0.88,
+      "tagger_used": "Heuristic Rule Engine"
+    },
+    {
+      "title": "Senior Java/Angular Engineer",
+      "company": "SwissPeak Partners GmbH",
+      "raw_location": "Zurich, Zürich, Switzerland",
+      "description": "<p>For a renowned Swiss bank in Zurich, we are looking for an experienced Java/Angular engineer. In a newly built DevOps team you help develop the new platform for digital onboarding and product opening and run its services. </p><h3>Your tasks</h3><ol><li><p>Build, develop and operate services in the DevOps team</p></li><li><p>Verify solutions against internal and external security standards</p></li><li><p>Improve operating processes and contribute to service design and architecture</p></li><li><p>Advise the business on feasibility and options, working closely with the product owner, business engineers and architecture</p></li><li><p>Depending on the position, introduce Camunda 8 and enable the team</p></li></ol><h3>Your profile</h3><ol><li><p>German at C1 level or higher, the project language is German. Understanding of Swiss German is expected. English at B2 level</p></li><li><p>Experience in client onboarding, digital product closings or client lifecycle management in finance within the last three years</p></li><li><p>Very good Java and Angular skills with Spring, JPA/Hibernate, Maven and SQL with PostgreSQL</p></li><li><p>Experience with Scrum or Kanban and a DevOps mindset</p>",
+      "apply_url": "https://www.arbeitnow.ch/jobs/companies/swisspeak-partners-gmbh/senior-java-angular-engineer-zurich-324300",
+      "source": "Arbeitnow API",
+      "tags": [],
+      "posted_at": 1794562296,
+      "dedup_hash": "dab2f454dbc692d9dcf56b4c455fbb06",
+      "role": "Frontend",
+      "city": "Other India",
+      "job_type": "Fresher/Full-time",
+      "stipend_salary": "Not Disclosed",
+      "confidence": 0.88,
+      "tagger_used": "Heuristic Rule Engine"
+    },
+    {
+      "title": "Solution Architect",
+      "company": "SwissPeak Partners GmbH",
+      "raw_location": "Zurich, Zürich, Switzerland",
+      "description": "<p>For a renowned Swiss bank in Zurich, we are looking for an experienced solution architect for new platforms in digital onboarding, sales and core banking. You ensure scalability, security and performance, and advise the business, product owners, development and infrastructure.</p><h3>Your tasks</h3><ol><li><p>Develop, document and communicate solution architectures aligned with the system landscape, standards and target pictures</p></li><li><p>Maintain architecture artefacts and IT system design, prepare architecture decisions</p></li><li><p>Ensure scalability, security, performance and maintainability of the solution</p></li><li><p>Review concepts and implementations</p></li><li><p>Depending on the initiative, establish an orchestration platform such as Camunda or Flowable, or integrate purchased software including infrastructure and network</p></li></ol><h3>Your profile</h3><ol><li><p>German at C1 level or higher, the project language is German. Understanding of Swiss German is expected. English at B2 level</p></li><li><p>At least eight years of experience as an architect, degree in computer science or business informatics</p></li><li><p>Software architecture of internet-facin",
+      "apply_url": "https://www.arbeitnow.ch/jobs/companies/swisspeak-partners-gmbh/solution-architect-zurich-375377",
+      "source": "Arbeitnow API",
+      "tags": [],
+      "posted_at": 1794562296,
+      "dedup_hash": "392b99aa8f6459fc2af28ff42d1d917d",
+      "role": "Other Tech",
+      "city": "Other India",
+      "job_type": "Fresher/Full-time",
+      "stipend_salary": "Not Disclosed",
+      "confidence": 0.88,
+      "tagger_used": "Heuristic Rule Engine"
+    },
+    {
+      "title": "Mitarbeiter/in Konstruktion und Arbeitsvorbereitung",
+      "company": "two.jobs",
+      "raw_location": "Buchrain",
+      "description": "<p>Für unseren Kunden <strong>wirth+co ag </strong>suchen wir eine/n <strong>Mitarbeiter/in Konstruktion und Arbeitsvorbereitung</strong></p><p>WIRTH ist ein erfolgreiches, zukunftsorientiertes Industrieunternehmen mit rund 180 Mitarbeitern. Unser Kerngeschäft sind die industrielle Blechverarbeitung, die Oberflächenbeschichtung und die Baugruppenmontage. Als reiner Lohnbetrieb gehören wir zu den führenden Anbietern in der Schweiz. Wir bieten interessante und abwechslungsreiche Tätigkeiten, flexible Arbeitszeiten, ein familiäres Umfeld und fördern die Weiterentwicklung unserer Mitarbeitenden.</p><h2>Aufgaben</h2><ul><li><p>Fertigungsgerechte Aufbereitung von Kundendaten unter Einhaltung von vorgegebenen Bedingungen (Termin, Zeitaufwand, Kosten, ...)</p></li><li><p>Konstruieren von Einzelteilen und Baugruppen auf SolidWorks</p></li><li><p>Konstruieren von Vorrichtungen und Lehren für die interne Fertigung</p></li><li><p>Machbarkeitsabklärungen und Optimierungen in Zusammenarbeit mit dem Kunden</p></li><li><p>Erarbeiten von technischen Lösungen zu Kundenanfragen für den Vertrieb</p></li><li><p>Erstellen der Datenpakete für die Produktion, insbesondere Arbeitspläne, Stücklisten und NC-",
+      "apply_url": "https://www.arbeitnow.ch/jobs/companies/twojobs/mitarbeiter-in-konstruktion-und-arbeitsvorbereitung-buchrain-275890",
+      "source": "Arbeitnow API",
+      "tags": [
+        "Development"
+      ],
+      "posted_at": 1794558649,
+      "dedup_hash": "f6291556571c115ecf82b2ae644bdc5c",
+      "role": "Other Tech",
+      "city": "Other India",
+      "job_type": "Fresher/Full-time",
+      "stipend_salary": "Not Disclosed",
+      "confidence": 0.88,
+      "tagger_used": "Heuristic Rule Engine"
+    },
+    {
+      "title": "Director of Sales, RM, Switzerland",
+      "company": "Sothebys",
+      "raw_location": "Zürich",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;ABOUT SOTHEBY&#39;S&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Established in 1744, Sotheby’s promotes access and ownership of exceptional art and luxury objects through auctions, private sales and retail. Our deep expertise across 70 selling categories is supported by a leading technology platform and a global network of specialists spanning 40 countries. Selling categories include Contemporary Art, Modern and Impressionist Art, Old Masters, Chinese Works of Art, Jewelry, Watches, Wine and Spirits and Design, as well as collectible cars and real estate through RM Sotheby’s and Concierge. Sotheby’s Financial Services is a leading art lender and provides capital solutions for collectors around the world, having originated more than $12 billion in loans since its inception. Sotheby’s new global headquarters is now open at the iconic Breuer building at 945 Madison Avenue in New York City.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;ABOUT RM SOTHEBY’S&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;RM Sotheby’s is the world&#39;s leading collector car auction house, specializing in the sale of the world&#39;s most exceptional automobiles. With",
+      "apply_url": "https://www.arbeitnow.ch/jobs/companies/sothebys/director-of-sales-rm-switzerland-zurich-118921",
+      "source": "Arbeitnow API",
+      "tags": [
+        "RM Sotheby’s"
+      ],
+      "posted_at": 1794552914,
+      "dedup_hash": "49ceb64124f6726a7273690cc76bcb0a",
+      "role": "Other Tech",
+      "city": "Other India",
+      "job_type": "Fresher/Full-time",
+      "stipend_salary": "Not Disclosed",
+      "confidence": 0.88,
+      "tagger_used": "Heuristic Rule Engine"
+    },
+    {
+      "title": "Fullstack Web Developer",
+      "company": "Auterion",
+      "raw_location": "Zurich",
+      "description": "&lt;p&gt;&lt;strong&gt;Overview&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;We are looking for a hands-on Fullstack Web Developer to join our Web Apps team, in our Zürich office. In this role you will have the opportunity to drive development of new features, have a say in architecture and design decisions and have real impact across all the team’s projects.&lt;/p&gt;\n&lt;p&gt;The web apps team plays a central role at Auterion and owns the systems that add connectivity and remote interfaces for fleet management and operations. Our services are responsible for ingesting and analyzing flight telemetry data, managing and updating the fleet as well as integrating with other systems across the stack.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;The ideal candidate is someone who’s a self-starter, can work independently, can work with ambiguity, can take decisions on their own and not be afraid to drive and push towards getting the project across the finish line.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Responsibilities and Duties&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Take ownership and drive the development of new features across all the team’s web based projects&lt;/li&gt;\n&lt;li&gt;Deliver clean, readable and ",
+      "apply_url": "https://www.arbeitnow.ch/jobs/companies/auterion/fullstack-web-developer-zurich-374360",
+      "source": "Arbeitnow API",
+      "tags": [
+        "Engineering"
+      ],
+      "posted_at": 1794531316,
+      "dedup_hash": "6f69e63c9fd4197523b2264694d4edf3",
+      "role": "Frontend",
+      "city": "Remote",
+      "job_type": "Fresher/Full-time",
+      "stipend_salary": "Not Disclosed",
+      "confidence": 0.88,
+      "tagger_used": "Heuristic Rule Engine"
+    },
+    {
       "title": "Senior IT Projektleiter - Einführung einer Enterprise ITSM Plattform",
       "company": "PROSTAFF Schweiz GmbH",
       "raw_location": "Zürich",
@@ -12353,150 +11973,36 @@
       "tagger_used": "Heuristic Rule Engine"
     },
     {
-      "title": "Projektleitung Steuer- und Finanzpolitik (Pensum 80-100%)",
-      "company": "two.jobs",
-      "raw_location": "Zürich",
-      "description": "<p>Im Auftrag unseres Kunden <strong>economiesuisse Dachverband der Schweizer Wirtschaft</strong> suchen wir eine <strong>Projektleitung Steuer- und Finanzpolitik (Pensum 80-100%)</strong></p><ul><li>Sie begeistern sich für die Schweizer Steuer- und Finanzpolitik und die entsprechenden Fragestellungen?</li><li>Sie möchten gestalten statt verwalten?</li><li>Dann ist diese vielseitige Position genau das Richtige für Sie!</li></ul><p>Zur Verstärkung unseres Teams im Fachbereich Finanzen & Steuern suchen wir per 1. Januar 2027 oder nach Vereinbarung eine engagierte Persönlichkeit, die steuer- und finanzpolitische Entwicklungen frühzeitig erkennt, fundiert analysiert und aktiv mitgestaltet.</p><p><strong>80-100% - Zürich</strong></p><p>Als Dachverband der Schweizer Wirtschaft vertritt economiesuisse die Interessen verschiedener Branchen und Unternehmen im politischen Prozess, repräsentiert die Mitglieder auf nationaler und internationaler Ebene und gestaltet die wirtschaftlichen Rahmenbedingungen der Schweiz an vorderster Front mit. Wir verstehen uns als Sprachrohr der Wirtschaft und vertreten deren Position gegenüber der Politik und der Öffentlichkeit. Dabei engagieren wir uns auch in ",
-      "apply_url": "https://www.arbeitnow.ch/jobs/companies/twojobs/projektleitung-steuer-und-finanzpolitik-pensum-80-100-zurich-365739",
+      "title": "Internship - Finance (Dec/Jan start, 6 months)",
+      "company": "Axelera AI",
+      "raw_location": "Eindhoven (hybrid)",
+      "description": "<p style=\"min-height:1.5em\">Axelera AI is a fast-growing European AI hardware scale-up building high-performance, energy-efficient AI acceleration for the edge. We are looking for a hands-on Finance Intern to join our team for 5-6 months, starting December 2026 or early January 2027.</p><p style=\"min-height:1.5em\">You will join at one of the busiest and most interesting moments of the financial year: the year-end close and the FY2026 external audit. You will work directly with our VP Finance and Finance Managers on real day-to-day finance operations, not side projects. You will learn how a high-growth tech company runs its accounts payable, accounts receivable, reconciliations and audit, and get exposure to investor and board reporting.</p><p style=\"min-height:1.5em\"><strong>Location:</strong> Eindhoven (hybrid, 2 office days per week minimum)</p><p style=\"min-height:1.5em\"><strong>Start date:</strong> December 2026 or early January 2027</p><p style=\"min-height:1.5em\"><strong>Duration:</strong> 5-6 months</p><p style=\"min-height:1.5em\"><strong>Hours:</strong> Minimum 4 days per week; full-time preferred</p><p style=\"min-height:1.5em\"></p><h2><strong>What you'll do:</strong></h2><ul",
+      "apply_url": "https://www.arbeitnow.nl/jobs/companies/axelera-ai/internship-finance-dec-jan-start-6-months-eindhoven-462541",
       "source": "Arbeitnow API",
       "tags": [
-        "Public Relations",
-        "Corporate Communication"
+        "Corporate Functions"
       ],
-      "posted_at": 1794479479,
-      "dedup_hash": "5e3c7a15bcf72ac5df6abe8b1b8a5b21",
+      "posted_at": 1794487232,
+      "dedup_hash": "cac6d3165403c8ea50bbdfde01a52839",
       "role": "Other Tech",
       "city": "Other India",
-      "job_type": "Fresher/Full-time",
+      "job_type": "Internship",
       "stipend_salary": "Not Disclosed",
       "confidence": 0.88,
       "tagger_used": "Heuristic Rule Engine"
     },
     {
-      "title": "Team Lead Electrical Engineering (gn)",
-      "company": "two.jobs",
-      "raw_location": "Wohlen",
-      "description": "<p>Im Auftrag unseres Kunden <strong>Oerlikon Metco AG</strong> suchen wir eine:n <strong>Team Lead Electrical Engineering (gn)</strong></p><p><strong>Ihre Aufgaben</strong></p><ul><li>Fachliche und personelle Führung sowie Weiterentwicklung eines engagierten Elektroengineering-Teams</li><li>Verantwortung für die Weiterentwicklung bestehender Produkte und Evaluation neuer Komponenten und Technologien</li><li>Enge Zusammenarbeit mit dem Produktmanagement, Produktion, Sales und weiteren Fachbereichen</li><li>Sicherstellung und kontinuierliche Verbesserung von Engineering-Standards, Prozessen und Qualitätsrichtlinien</li><li>Planung und Koordination von Ressourcen, Projekten und Engineering-Aktivitäten</li><li>Initiierung und Umsetzung von Verbesserungsmassnahmen im Rahmen des KVP</li></ul><p><strong>Ihr Profil</strong></p><ul><li>Solide technische Grundausbildung und Weiterbildung auf Stufe HF/FH (Elektrotechnik, Automation oder Systemtechnik)</li><li>Mehrjährige Berufserfahrung im Elektro-Engineering sowie Erfahrung in der Führung und Entwicklung von Teams</li><li>Fundiertes Fachwissen relevanter Normen, Sicherheitsstandards im Bereich der Elektrotechnik im Maschinen- und Anlagenbau",
-      "apply_url": "https://www.arbeitnow.ch/jobs/companies/twojobs/team-lead-electrical-engineering-gn-wohlen-190258",
+      "title": "Regional Sales Director, NEUR",
+      "company": "Horizon3Ai",
+      "raw_location": "Amsterdam, Netherlands",
+      "description": "<p style=\"min-height:1.5em\"><strong>Get to Know Us</strong></p><p style=\"min-height:1.5em\">Horizon3 is a fast-growing, remote cybersecurity company dedicated to the mission of enabling organizations to proactively find and fix and verify exploitable attack vectors before criminals exploit them. Our flagship product, the NodeZeroTM platform, delivers production-safe autonomous pentests and other key assessment operations that scale across the largest internal, external, cloud, and hybrid cloud environments. NodeZero has been adopted by organizations of all sizes, from small educational institutions to government agencies and Global 100 enterprises. It is used by ITOps/SecOps teams, consulting pentesters, and MSSPs and MSPs. </p><p style=\"min-height:1.5em\">We are a fusion of former U.S. Special Operations cyber operators, startup engineers, and formerly frustrated cybersecurity practitioners. We're committed to helping solve our common security problems: ineffective security tools, false positives resulting in alert fatigue, blind spots, \"checkbox” security culture, cybersecurity skills shortage, and the long lead time and expense of hiring outside consultants. Collectively, we are a",
+      "apply_url": "https://www.arbeitnow.nl/jobs/companies/horizon3ai/regional-sales-director-neur-amsterdam-218233",
       "source": "Arbeitnow API",
       "tags": [
-        "Project Management"
+        "Sales"
       ],
-      "posted_at": 1794474080,
-      "dedup_hash": "d301971092ac2dca878ea4ff1749de1b",
-      "role": "Other Tech",
-      "city": "Other India",
-      "job_type": "Fresher/Full-time",
-      "stipend_salary": "Not Disclosed",
-      "confidence": 0.88,
-      "tagger_used": "Heuristic Rule Engine"
-    },
-    {
-      "title": "Azure Engineer",
-      "company": "MDigital AG",
-      "raw_location": "Muttenz",
-      "description": "<p>Du willst nicht einfach ein paar Ressourcen in Azure anklicken. Du willst echte Kundenumgebungen modernisieren, Migrationen umsetzen und Verantwortung übernehmen.</p>\n<p>Dann könnte das hier zu Dir passen.</p>\n<p>Wir suchen einen Azure Engineer, der Kunden aktiv von klassischen OnPrem-Umgebungen in die Microsoft Cloud begleitet. Kein Konzern. Keine endlosen Hierarchien. Sondern echte Projekte, direkte Verantwortung und die Möglichkeit, unsere Microsoft Cloud Services aktiv mitzugestalten und weiter aufzubauen.</p>\n<h2>Aufgaben</h2>\n<p><strong>Deine Aufgaben</strong></p>\n<ul>\n<li>Migration von Windows Server Workloads nach Microsoft Azure</li>\n<li>Planung und Umsetzung von Azure Infrastruktur-Projekten</li>\n<li>Aufbau und Betrieb von Azure Virtual Desktop (AVD)</li>\n<li>Bereitstellung von RemoteApp Umgebungen über Azure Virtual Desktop</li>\n<li>Migration und Modernisierung von Legacy-Applikationen als RemoteApp aus Microsoft Azure</li>\n<li>Planung und Umsetzung von Hybrid-Szenarien zwischen OnPrem und Microsoft Azure</li>\n<li>Migration lokaler Fileserver und Datenablagen nach SharePoint Online und Microsoft 365</li>\n<li>Migration von lokalen Microsoft Exchange Umgebungen zu Excha",
-      "apply_url": "https://www.arbeitnow.ch/jobs/companies/mdigital-ag/azure-engineer-muttenz-321667",
-      "source": "Arbeitnow API",
-      "tags": [
-        "System and Network Administration"
-      ],
-      "posted_at": 1794466859,
-      "dedup_hash": "9938c37c29fa8e994424633e274cfee3",
-      "role": "DevOps & Cloud",
-      "city": "Other India",
-      "job_type": "Fresher/Full-time",
-      "stipend_salary": "Not Disclosed",
-      "confidence": 0.88,
-      "tagger_used": "Heuristic Rule Engine"
-    },
-    {
-      "title": "System Engineer",
-      "company": "MDigital AG",
-      "raw_location": "Muttenz",
-      "description": "<p>Bei uns arbeitest Du direkt an echten Kundenumgebungen.</p>\n<p>Du migrierst Microsoft-365-Umgebungen, baust Azure-Netzwerke, analysierst komplexe Probleme und setzt Lösungen um, die beim Kunden sofort Wirkung zeigen.</p>\n<p>Wir suchen keine Leute, die einfach Tasks abarbeiten. Wir suchen Engineers, die ihr Handwerk verstehen, Verantwortung übernehmen und technische Probleme sauber lösen wollen.</p>\n<p><strong>Die Zertifikate Microsoft AZ-104 und AZ-700 sind die Grundvoraussetzung für das Erfüllen der Anforderungen. Falls Zertifizierungen fehlen, unterstützen wir Dich aktiv dabei diese zu erlangen.</strong></p>\n<p><strong>Die Stelle erfordert zudem Mobilität und klare Kommunikation. Ein Führerausweis der Kategorie B sowie sehr gute Deutschkenntnisse in Wort und Schrift sind Voraussetzung.</strong></p>\n<h2>Aufgaben</h2>\n<p><strong>Deine Rolle</strong></p>\n<p>Als System Engineer arbeitest Du an realen Kundenumgebungen – nicht im Labor.</p>\n<p>Du migrierst Server, planst Microsoft 365- und Azure-Umstellungen, richtest Netzwerke ein und sorgst dafür, dass Systeme laufen. Du arbeitest direkt mit Entscheidungsträgern zusammen, triffst technische Entscheidungen selbst und trägst Veran",
-      "apply_url": "https://www.arbeitnow.ch/jobs/companies/mdigital-ag/system-engineer-muttenz-428140",
-      "source": "Arbeitnow API",
-      "tags": [
-        "System and Network Administration"
-      ],
-      "posted_at": 1794466859,
-      "dedup_hash": "1c43981794e1798ab30eb1731c20fe6c",
-      "role": "Other Tech",
-      "city": "Other India",
-      "job_type": "Fresher/Full-time",
-      "stipend_salary": "Not Disclosed",
-      "confidence": 0.88,
-      "tagger_used": "Heuristic Rule Engine"
-    },
-    {
-      "title": "Senior Solutions Engineer | Switzerland | Remote",
-      "company": "grafanalabs",
-      "raw_location": "",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Grafana Labs is the company behind Grafana Cloud, the fully managed observability platform trusted by more than 10,000 organizations to ensure reliability, resolve incidents faster, and optimize telemetry at scale. Built on open source and open standards and designed for interoperability across any stack, Grafana Cloud brings AI to observability and observability to AI, giving teams (and their agents) unified visibility so they can see, understand, and act on all their disparate data, wherever it lives, and move at the speed of their ambitions. Customers, including Anthropic, Bloomberg, NVIDIA, Microsoft, and Salesforce, rely on Grafana Labs. We are a 100% remote company with team members across 40+ countries, backed by leading investors including Lightspeed Venture Partners, Sequoia Capital, GIC, Coatue, J.P. Morgan, CapitalG, and Lead Edge Capital. Learn more at &lt;u&gt;&lt;span&gt;&lt;a href=&quot;http://grafana.com&quot; target=&quot;_blank&quot;&gt;grafana.com&lt;/a&gt;&lt;/span&gt;&lt;/u&gt; and follow us on &lt;u&gt;&lt;span&gt;&lt;a href=&quot;https://www.linkedin.com/company/grafana-labs/&quot; target=&quot;_blank&quot;&",
-      "apply_url": "https://www.arbeitnow.ch/jobs/companies/grafanalabs/senior-solutions-engineer-switzerland-remote-203048",
-      "source": "Arbeitnow API",
-      "tags": [
-        "Solutions Engineering (EMEA)"
-      ],
-      "posted_at": 1794466518,
-      "dedup_hash": "d7f138459b263fce5f93ada7a675ad1d",
-      "role": "Other Tech",
-      "city": "Remote",
-      "job_type": "Fresher/Full-time",
-      "stipend_salary": "Not Disclosed",
-      "confidence": 0.88,
-      "tagger_used": "Heuristic Rule Engine"
-    },
-    {
-      "title": "Senior Airspace Engineer",
-      "company": "Electraaero",
-      "raw_location": "Olten, Solothurn",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-size: 12pt; font-family: helvetica, arial, sans-serif;&quot;&gt;&lt;strong&gt;About Electra&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-serif; font-size: 12pt;&quot;&gt;Air travel is about to become something more: more direct, more accessible, and more connected to the places where people live, work and want to be. Every day in the U.S., people make 35 million trips of 50–500 miles, stuck in traffic or routed through crowded hubs. Chances are, you&#39;ve been one of them. At Electra, we&#39;re changing that with the EL9, a nine-passenger, hybrid-electric aircraft that takes off and lands in just 150 feet. Our Ultra Short technology opens up thousands of new places to fly, beyond conventional runways, congested airports and long drives. We&#39;re backed by Lockheed Martin, Honeywell and Safran. Operators worldwide have signed intent-to-purchase agreements for the first 2,200 aircraft we produce, and we&#39;re moving toward first test flights in 2027.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-serif; f",
-      "apply_url": "https://www.arbeitnow.ch/jobs/companies/electraaero/senior-airspace-engineer-olten-solothurn-87168",
-      "source": "Arbeitnow API",
-      "tags": [
-        "Business Development & Strategy"
-      ],
-      "posted_at": 1794434135,
-      "dedup_hash": "5697bf640899e7c40d32296eae73700a",
-      "role": "Other Tech",
-      "city": "Other India",
-      "job_type": "Fresher/Full-time",
-      "stipend_salary": "Not Disclosed",
-      "confidence": 0.88,
-      "tagger_used": "Heuristic Rule Engine"
-    },
-    {
-      "title": "Senior Technical Sales Manager - AI-Driven Software Engineering",
-      "company": "Createq Space",
-      "raw_location": "Pfäffikon, Switzerland",
-      "description": "<p><strong>About CREATEQ</strong></p><p>CREATEQ is a Swiss software engineering company with more than 30 years of experience in delivering custom software solutions and modernizing complex legacy systems. We work with leading international companies across industries such as banking and fintech, insurance, aviation and transportation, telecommunications, and energy.</p><p>We design, build, and run high-quality software solutions, combining strong engineering expertise, modern technologies, AI-enabled approaches, and proven delivery practices. Our teams work across Java, .NET, PHP, mobile, and web development, helping clients modernize their technology landscapes, improve their software capabilities, and build solutions that are reliable, scalable, and ready for the future.</p><p>We are fully dedicated to long-term partnerships, working as one organization with our customers and taking ownership from the first idea through to reliable execution and smooth operation. With nearshore delivery centers across Europe, we bring together experienced engineering and delivery teams who combine technical excellence, business understanding, and a strong sense of ownership.</p><p>People, engine",
-      "apply_url": "https://www.arbeitnow.ch/jobs/companies/createq-space/senior-technical-sales-manager-ai-driven-software-engineering-pfaffikon-299887",
-      "source": "Arbeitnow API",
-      "tags": [],
-      "posted_at": 1794432015,
-      "dedup_hash": "04c5395f5e53f8a9e29525a0bf601487",
-      "role": "AI/ML",
-      "city": "Other India",
-      "job_type": "Fresher/Full-time",
-      "stipend_salary": "Not Disclosed",
-      "confidence": 0.88,
-      "tagger_used": "Heuristic Rule Engine"
-    },
-    {
-      "title": "SEO Specialist",
-      "company": "TransPerfect",
-      "raw_location": "Remote job",
-      "description": "<p><strong>&nbsp;Ready to turn SEO into measurable business growth?</strong></p><p style=\"text-align:start;min-height: 1.7em;\"></p><p style=\"text-align:start;\">TransPerfect are looking for a strategic, data-driven SEO Specialist to support their digital department to help global brands expand into the French (Swiss) market. </p> <br> <p>We're looking for a freelance expert to support businesses expanding into the French Swiss market. You'll work on a range of SEO and digital visibility projects, helping brands improve their performance across both traditional search engines and emerging AI-powered platforms.</p><p style=\"min-height: 1.7em;\"></p><p><strong>Project types include:</strong></p><ul><li><p>Technical SEO Audits</p></li><li><p>LLM Visibility Audits</p></li><li><p>Core Web Vitals, Hreflang &amp; Canonical Reviews</p></li><li><p>Content Strategy &amp; Optimisation</p></li><li><p>Technical SEO Consulting</p></li><li><p>AI Prompt Development</p></li><li><p>Website Crawls &amp; SEO Analysis</p></li><li><p>Keyword research and optimisation</p></li></ul><p><strong>Ideal experience:</strong></p><ul><li><p>Native proficiency of French (Swiss), fluent English</p></li><li><p>Strong t",
-      "apply_url": "https://www.arbeitnow.ch/jobs/companies/transperfect/remote-seo-specialist-zurich-115790",
-      "source": "Arbeitnow API",
-      "tags": [
-        "Project Management",
-        "Remote"
-      ],
-      "posted_at": 1794421882,
-      "dedup_hash": "5a6b88e532c1a10cb4bc2007f8bb782a",
+      "posted_at": 1794487231,
+      "dedup_hash": "674c050d51989184a3c01b2aeb748a23",
       "role": "Other Tech",
       "city": "Remote",
       "job_type": "Fresher/Full-time",
@@ -13110,25 +12616,6 @@
       "posted_at": 1794421885,
       "dedup_hash": "520daa17afbbcb1a5396d5afa70b35a7",
       "role": "Other Tech",
-      "city": "Other India",
-      "job_type": "Fresher/Full-time",
-      "stipend_salary": "Not Disclosed",
-      "confidence": 0.88,
-      "tagger_used": "Heuristic Rule Engine"
-    },
-    {
-      "title": "Medior AI Architect",
-      "company": "The Trainee Company",
-      "raw_location": "Assen, Drenthe, Nederland",
-      "description": "<p class=\"isSelectedEnd\">Je hebt al een paar jaar ervaring binnen IT, data of architectuur en wilt jezelf verder ontwikkelen op het gebied van <strong>Artificial Intelligence</strong>. Je vindt het interessant om complexe technische vraagstukken te doorgronden, maar krijgt ook energie van het vertalen van technologie naar concrete oplossingen voor een organisatie. Daarnaast weet je complexe onderwerpen begrijpelijk uit te leggen aan verschillende stakeholders. Herkenbaar? Dan is deze rol als Medior AI Architect binnen het traineeship Business &amp; IT een mooie volgende stap in jouw carrière.</p><h2></h2><h4>Wat ga je doen als Medior AI Architect?</h4><p class=\"isSelectedEnd\">Als Medior AI Architect werk je aan de ontwikkeling en toepassing van AI binnen een grote IT-organisatie. Je helpt mee om AI op een <strong>veilige, schaalbare en toekomstbestendige manier</strong> toe te passen en zorgt dat nieuwe AI-oplossingen goed aansluiten op de bestaande IT- en dataomgeving.</p><p style=\"min-height: 1.7em;\"></p><p class=\"isSelectedEnd\">Je beweegt je op het snijvlak van <strong>AI, data, architectuur en strategie</strong>. Daarbij werk je samen met verschillende teams en stakeholders en ",
-      "apply_url": "https://www.arbeitnow.nl/jobs/companies/the-trainee-company/medior-ai-architect-assen-284242",
-      "source": "Arbeitnow API",
-      "tags": [
-        "Business & ICT"
-      ],
-      "posted_at": 1794421885,
-      "dedup_hash": "ff5babbe90585cd076aa9171ee5d5b96",
-      "role": "AI/ML",
       "city": "Other India",
       "job_type": "Fresher/Full-time",
       "stipend_salary": "Not Disclosed",

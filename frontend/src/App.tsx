@@ -173,9 +173,11 @@ export default function App() {
       <header className="border-b border-slate-800/80 bg-slate-900/60 backdrop-blur-md sticky top-0 z-40">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-3.5 flex flex-wrap items-center justify-between gap-4">
           <div className="flex items-center gap-3">
-            <div className="w-9 h-9 rounded-xl bg-gradient-to-tr from-amber-500 via-rose-500 to-indigo-600 flex items-center justify-center font-black text-white text-lg shadow-lg shadow-amber-500/20">
-              B
-            </div>
+            <img 
+              src="/beep-logo.png" 
+              alt="Beep" 
+              className="w-10 h-10 object-contain drop-shadow-md hover:scale-105 transition-transform" 
+            />
             <div>
               <div className="flex items-center gap-2">
                 <span className="font-bold text-lg tracking-tight bg-gradient-to-r from-white via-slate-200 to-slate-400 bg-clip-text text-transparent">
@@ -682,9 +684,12 @@ export default function App() {
       {/* Footer */}
       <footer className="border-t border-slate-800/80 bg-slate-950 py-6 text-center text-xs text-slate-500">
         <div className="max-w-7xl mx-auto px-4 flex flex-col sm:flex-row items-center justify-between gap-3">
-          <p>
-            Built for the <strong className="text-slate-300">Beep Gen AI & Engineering</strong> Assessment &bull; Candidate: <strong className="text-slate-300">Anuraag Gupta</strong>
-          </p>
+          <div className="flex items-center gap-2">
+            <img src="/beep-logo.png" alt="Beep" className="w-5 h-5 object-contain" />
+            <p>
+              Built for the <strong className="text-slate-300">Beep Gen AI & Engineering</strong> Assessment &bull; Candidate: <strong className="text-slate-300">Anuraag Gupta</strong>
+            </p>
+          </div>
           <div className="flex items-center gap-4">
             <span className="flex items-center gap-1 text-emerald-400">
               <CheckCircle2 className="w-3.5 h-3.5" /> 690+ Fresh Posts Live
